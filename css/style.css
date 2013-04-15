@@ -1,0 +1,14 @@
+.me {
+  margin: 60px 0;
+  font-family: "Yanone Kaffeesatz", "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.me h1 {
+  font-size: 130px;
+  line-height: 1.25;
+}
+
+.me .lead {
+  font-size: 36px;
+  line-height: 1.25
+}
