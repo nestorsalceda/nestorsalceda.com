@@ -1,3 +1,0 @@
-markdown: rdiscount
-pygments: true
-exclude: [config, Capfile, Gemfile, Gemfile.lock]
