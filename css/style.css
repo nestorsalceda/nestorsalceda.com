@@ -1,26 +1,20 @@
 body {
   margin-top: 30px;
 }
-
-.me, .skills {
-  font-family: "Yanone Kaffeesatz", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
+/*
 .me h1 {
-  font-family: "Yanone Kaffeesatz", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 100px;
   line-height: 1.25;
 }
 
 .me h2, .skills h2 {
-  font-family: "Yanone Kaffeesatz", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 32px;
   line-height: 1.25
 }
 
-.me .lead {
+.me {
   margin: 20px 0 0 0;
   line-height: 1.25
 }
@@ -28,9 +22,4 @@ body {
 .skills li {
   font-size: 16px;
 }
-
-@media (min-width: 768px) {
-  .skills li {
-    font-size: 18px;
-  }
-}
+*/
