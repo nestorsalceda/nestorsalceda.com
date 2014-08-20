@@ -1,25 +1,16 @@
-body {
-  margin-top: 30px;
+.about {
+  padding-top: 30px;
+  line-height: 1.25
 }
-/*
-.me h1 {
+.about h1 {
   font-weight: bold;
-  font-size: 100px;
   line-height: 1.25;
+  font-size: 42px;
 }
 
-.me h2, .skills h2 {
+.about h2, .skills h3 {
   font-weight: bold;
-  font-size: 32px;
-  line-height: 1.25
+  font-size: 24px;
+  line-height: 1.25;
+  color: #777;
 }
-
-.me {
-  margin: 20px 0 0 0;
-  line-height: 1.25
-}
-
-.skills li {
-  font-size: 16px;
-}
-*/
