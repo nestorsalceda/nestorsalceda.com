@@ -12,4 +12,5 @@ github_username:  nestorsalceda
 permalink: /blog/:year/:month/:day/:title
 
 # Build settings
+exclude: [Gemfile, Gemfile.lock]
 markdown: kramdown
