@@ -1,0 +1,31 @@
+---
+layout: blog
+title: Blog
+permalink: /blog/
+---
+
+<div class="bg-intro-blog" id="home">
+  <div class="layer-intro-blog">
+  </div>
+</div>
+
+<div class="bg-post">
+  <div class="container">
+
+    <div class="row row-blog">
+      <div class="col-md-12 wrapper-blog">
+
+        {% for post in site.posts %}
+        <div class="row">
+          <div class="col-sm-12">
+            <a href="{{ post.url | prepend: site.baseurl }}"><h1 class="title-post">{{ post.title }}</h1></a>
+              <p class="small author">{{ post.date | date_to_long_string }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+              <p>{{ post.excerpt }}</p>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-default">Leer más</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
