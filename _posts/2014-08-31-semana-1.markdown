@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Semana 1"
+date: 2014-08-31 22:00
+category: retrospectiva
+---
+
+En esta semana he empezado a sentir que llega la vuelta al cole. Se empiezan a
+mover y a retomar proyectos que estaban dormidos, se empiezan a planificar
+reuniones y visitas y se empieza a hablar de plazos y fechas.
+
+Creo que esta semana que viene, será también movida.
+
+En los proyectos actuales:
+
+* Con la gente de [alea](http://alea-soluciones.com) estamos abriendo nuevos
+  caminos con [Go](http://golang.org). Creemos que en el futuro próximo vamos a
+  hacer buen uso de sus capacidades de concurrencia. También he estado con la
+  [imagen oficial](https://registry.hub.docker.com/_/jenkins/) de
+  [Jenkins](http://jenkins-ci.org) para [docker](http://docker.io). He
+  encontrado un error, y ya hice un [pull-request](https://github.com/cloudbees/jenkins-ci.org-docker/pull/5).
+  Espero dejar todo este tema ya dockerizado esta semana.
+
+* He tenido un fuego en el paso a producción de unos cambios para la gente de
+  American Express, tuve que hacer un rollback a toda prisa que teníamos la
+  a los agentes parados. Esta aplicación me llegó legacy, al no tener una batería
+  de tests automáticos (se acaban probando manualmente), con la combinatoria
+  que hay y algún cambio en el equipo, no he tenido mucha confidencia esta vez.
+
+Con los proyectos personales:
+
+* He disfrutado como un enano con [bolt](http://github.com/nestorsalceda/bolt).
+  Otro día haré una entrada específica sobre esto, pero como adelanto, es una
+  aplicación web que se habla con un [arduino](http://arduino.cc) y me permite manejar las
+  luces de mi despacho. Pues le he añadido un termistor para
+  controlar la temperatura y me llegó un [shield para poder controlar el aire
+  acondicionado](http://www.cooking-hacks.com/documentation/tutorials/control-hvac-infrared-devices-from-the-internet-with-ir-remote/).
+  En la parte frontend, quité [Foundation](http://foundation.zurb.com)
+  y volví a [Bootstrap](http://getbootstrap.com), creo que se adapta mejor a lo
+  que quiero con este proyecto.
+
+* Hice un cambio en el menú del blog y la web, dejándolos iguales. Esto me lo
+  sugirió [Pablo Jimeno](http://blog.pablojimeno.com/) y me pareció que tenía
+  toda la razón del mundo.
+
+
+Y finalmente, hice un cambio de rutina y salí a hacer deporte por la mañana, en
+lugar de por la tarde - noche. Me he notado mucho más relajado al empezar a
+trabajar después de correr, aunque haya que madrugar un poco. Así que a seguir
+moviéndose por la mañana.
+
+¡Disfrutad la semana!
