@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Semana 2"
+date: 2014-09-8 10:00
+category: retrospectiva
+---
+
+Pues ha llegado la vuelta al cole, pero ha llegado un poco perezosa. Aun así, he
+conseguido ya dejar cerrado y facturado un proyecto, y ya tengo hueco para
+más cosas, que últimamente voy teniendo ideas y propuestas con bastante buena
+pinta.
+
+Para esta semana espero el despertar de todos los proyectos y ver si puedo irlos
+cerrando, que no les falta tanto.
+
+En los proyectos actuales:
+
+* Con la gente de [alea](http://alea-soluciones.com) hemos tenido algún problema
+  con una controladora RAID que me ha traido como geisha por arrozal.
+  Afortunadamente, parece que con la última actualización de la BIOS se arregla.
+  El jueves fue bastante divertido, ya que estuvimos practicando [Go](http://golang.org),
+  haciendo una sesión de [Mob Programming](http://mobprogramming.org/). Ya
+  terminé también la parte de [Jenkins](http://jenkins-ci.org) y [docker](http://docker.io).
+  Ahora me pide el cuerpo que cada trabajo se ejecute en un contendor. Pero creo
+  que lo dejaremos para otro momento.
+
+* Ya he dejado estable el tema de American Express, y ya lo tengo facturado.
+
+* Estuve preparando la demo para un programa para gestión remota
+  de puntos de acceso Cisco. Pero al final se pospuso para esta semana.
+
+* Arreglé un error con un proyecto que tengo para enseñar a leer a niños
+  pequeños, había una palabra duplicada. Este es uno de los proyectos que ha
+  despertado esta semana.
+
+Con los proyectos personales:
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) he estado tocando algunas
+  cosillas de frontend para adaptarlo a móvil y tablets. En la parte backend
+  tengo la sospecha de algún memory leak, así que estoy monitorizando con lupa
+  ese proceso. Aproveché también para hacer una parte de rewrite interesante, y
+  así poder tener unit tests, ya no dependo de mi arduino para probar.
+
+* El viernes a última hora estuve dando una charla motivacional a un grupo de
+  alumnos de México, es un poco difícil hacerlo sin ver las caras de quien te
+  escucha, pero creo que salió bien y creo que quedó claro el mensaje de que
+  disfruten mucho con su trabajo y que no olviden que el software lo escriben
+  las personas.
+
+En lo que respecta a correr sólo he salido 1 día esta semana, que ya han abierto
+el gimnasio y tengo que volver a coger el ritmo con todo. Eso sí, seguí haciendo
+pruebas y como la tirada no era muy fuerte decidí salir en ayunas; y creo que
+bastante bien, que no ví llegar al tio del mazo.
+
+¡Pasad una buena semana!
