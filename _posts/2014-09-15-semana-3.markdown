@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Semana 3"
+date: 2014-09-15 16:00
+category: retrospectiva
+---
+
+Ahora sí que sí, tengo toda la maquinaria en movimiento. Ha sido una semana
+fuertecilla, teniendo en cuenta la vuelta de verano, pero hay muchas cosas
+buenas.
+
+En los proyectos actuales:
+
+* Con la gente de [alea](http://alea-soluciones.com) ya estamos haciendo código
+  [Go](http://golang.org) de producción. Y además, muchas de las cosas que no
+  nos tocan directamente el negocio, podemos enseñarlas al mundo, así que como
+  hizo en su día la gente de [Dropbox](https://github.com/dropbox/godropbox)
+  pues hemos publicado nuestro [repositorio](https://github.com/aleasoluciones/goaleasoluciones).
+  Además, ya vamos investigando y empezando a hilar con software de terceros. Me
+  gusta bastante el ecosistema de Go y me encanta la sensación de que las
+  herramientas fallan alguna vez. Huele a nuevo.
+
+* Tuve la demo de la gestión de remota de puntos de acceso Cisco, y parece que
+  ya vemos en la buena dirección. Para esta semana tendré una reunión y creo que
+  se quedará listo para hacer una prueba de verdad.
+
+* Con el proyecto de enseñar a leer a niños, implementé la segunda fase, que son
+  pares de palabras. En este proyecto utilicé foundation, pero creo que voy a
+  volver a ponerlo con bootstrap.
+
+Con los proyectos personales:
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) he instalado newrelic, pero
+  todavía no he encontrado el cuello de botella. De hecho el último jueves del
+  mes, lo enseñaré en el [Grupo de Rubystas de Zaragoza](http://www.meetup.com/Zaragoza-Ruby-Jam-Sessions/)
+
+* He estado preparando charlas y workshops para la [PyConES
+  2014](http://2014.es.pycon.org), que se nos acababa el plazo. Para esta
+  edición, hemos querido preparar con la gente de [alea](http://alea-soluciones.com)
+  cosas un poco más prácticas, y creo que lo hemos conseguido.
+
+* Nos juntamos unas cuantos desarrolladores en las oficinas de
+  [cuentica](http://www.cuentica.com) para hablar de API's. Muchas gracias por
+  compartir conocimiento zagalada! [@Superwillyfoc](http://www.twitter.com/@Superwillyfoc)
+  [@pablojimeno](http://www.twitter.com/@pablojimeno) [@olmeras](http://www.twitter.com/@olmeras)
+  [@leptom](http://www.twitter.com/@leptom) [@franochlab](http://www.twitter.com/@francholab)
+  [@dani_latorre](http://www.twitter.com/@dani_latorre)
+
+* Y finalmente, no pude asistir a la [baruco](http://baruco.org), pero conseguí
+  revender la entrada y no palmar la pasta. Espero que los que estuvieron me hagan
+  unos buenos resúmenes :)
+
+En lo que respecta a correr he salido 2 días esta semana, uno por la mañana y
+otro por la tarde. Creo que tengo las zapatillas ya un poco comidas y puede ser
+un buen momento para probar [runnics](http://runnics.com) y comprarme unas
+nuevas.
+
+¡Disfrutad de vuestra semana!
