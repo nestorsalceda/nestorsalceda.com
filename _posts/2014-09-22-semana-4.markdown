@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Semana 4"
+date: 2014-09-22 13:00
+category: retrospectiva
+---
+
+Ha sido una semana provechosa, también cortita, pero bastante aprovechada dado que el lunes
+y el martes estuve fuera.
+
+En los proyectos actuales:
+
+* Con [alea](http://alea-soluciones.com) estuve trasteando con
+  [Docker](http://docker.io) y [Jenkins](http://jenkins-ic.org). Tenemos una
+  severa adicción a tener las cosas bajo el control de versiones, y al empezar a
+  meter cosas con [Go](http://golang.org) en el servidor de integración
+  continua, la imagen se empezaba a quedar corta y pesada. Así que manos a la
+  obra, tenemos ya casi un sistema bastante parecidillo a cómo lo podría hacer un
+  servicio en la nube del tipo [Travis](http://travis-ci.org).
+
+* Tuve la demo de la gestión de remota de puntos de acceso Cisco, y ya está
+  casi. Ya me pidieron la factura y todo, así que, si todo va bien la semana que
+  viene se prueba en una tienda y cerrado.
+
+* Con el programa para enseñar a leer a niños, implementé la tercera fase, que
+  son frases cortas utilizando las palabras ya conocidas. Esta semana terminaré
+  el frontend y creo que podremos dejarlo casi cerrado.
+
+Con los proyectos personales:
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) sigo buscando el cuello de
+  botella como si buscase a Wally. Tengo en mente hacer un cliente con Go, para
+  aprender un poquillo más y echar un vistazo a cosas como
+  [Gin-Gonic](https://gin-gonic.github.io/gin/).
+
+Y esta semana no he corrido, que voy justo de tiempo y estamos preparando una
+exhibición para este Domingo en La Almunia de Doña Godina.
+
+¡Sed felices durante esta semana!
