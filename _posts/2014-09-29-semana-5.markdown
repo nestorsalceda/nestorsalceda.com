@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Semana 5"
+date: 2014-09-29 13:00
+category: retrospectiva
+---
+
+Esta semana ha sido de las completitas. Me ha dado tiempo a casi terminar un
+proyecto y tengo otro que me falta un día para la prueba final.
+
+En los proyectos actuales:
+
+* Con [alea](http://alea-soluciones.com) volvimos a la dinámica normal de pair
+  programming y funcionalidad. Y tuvimos una [retrospectiva de despedida](https://twitter.com/eferro/status/514751246981660672) con
+  [Guillermo](http://twitter.com/pasku1) que se nos marcha de nómada digital.
+  Esto me da un poco de penilla, porque he estado muy a gusto trabajando con el,
+  pero estoy segurísimo de que le irá muy bien y que aprenderá un montón de
+  cosas nuevas. Así que estamos buscando un [compañero](https://gist.github.com/eferro/0dc2a31f1a25fc7c232c#file-relacion_estable-md)
+
+* Tuve la demo de la gestión de remota de puntos de acceso Cisco, y salió todo
+  bien, sin errores. Ahora nos falta la prueba en cliente final y salieron unos
+  requisitos de seguridad que debo presupuestar para esta semana.
+
+* Con el programa para enseñar a leer a niños, ya lo tengo en bootstrap. Y estoy
+  encantado con el resultado. Sigo pensando que aunque hay cosas de foundation
+  que me gustaron muchísimo para mi caso me encaja mejor bootstrap. Me enviaron
+  un par de líneas de feedback y yo creo que lo tenemos listo para esta semana.
+
+Con los proyectos personales:
+
+* Estuve el jueves con la gente de ZaragozaRB hablando de
+  [bolt](http://github.com/nestorsalceda/bolt). Cenamos en [La
+  Jamonería](http://twitter.com/LaJamoneria) muy muy rico y después nos fuimos a
+  echar unos futbolines (clin, clin, clin!)
+
+* Últimamente, estoy acumulando fotos y algo de documentación de proyectos que
+  me interesaría tener bien guardada, así que vuelvo a pensar en montarme un
+  NAS. Tenía bastante clara la cosa de [FreeNAS](http://freenas.org) pero he
+  estado echando un ojo a [OpenMediaVault](http://openmediavault.org) y quizás
+  para un sistema doméstico me resulte más asequible. ZFS mola mucho, pero
+  también pide bastante. Tengo que hacer números y fijarme los objetivos que
+  quiero cumplir
+
+Esta semana tampoco he corrido, pero ya hicimos la exhibición de La Almunia y
+creo que salió bastante bien, así que a ver si aprovecho antes de que venga el
+frío para correr otra vez.
+
+¡Disfrutad de la semana!
