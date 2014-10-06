@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Semana 6"
+date: 2014-10-06 14:00
+category: retrospectiva
+---
+
+Ya se está estabilizando el ritmo de trabajo y se van notando los proyectos
+cerrados. Así que tengo un poco de tiempo para nuevos proyectos.
+
+En los proyectos actuales:
+
+* Con [alea](http://alea-soluciones.com) fuí a verlos a Madrid, y estuvimos de
+  reuniones y volvimos a retomar [Go](http://golang.org). Ha estado bastante
+  guay porque hicimos un poco de tool-sharpening y tenemos herramientas para
+  hacer tests, casi al mismo ritmo que lo hacemos con [Python](http://python.org).
+  Le echamos un ojo a [Ginkgo](https://onsi.github.io/ginkgo/) y
+  [Gomega](http://onsi.github.io/gomega/) y con
+  [Testify/mock](https://github.com/stretchr/testify#mock-package) tenemos un
+  ecosistema bastante razonable.
+
+* Con la gestión remota de puntos de acceso Cisco, tengo pendiente el tema del
+  presupuesto, que se me ha pasado esta semana.
+
+* Con el programa para enseñar a leer a niños estuve haciendo unos cambios en el
+  diseño y estoy esperando un poquito más de feedback.
+
+Con los proyectos personales:
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) he arreglado el memory leak.
+  Esta vez, la [función select si que estaba rota](http://pragmatictips.com/26)
+  y tenía un problema con la implementación de sinatra-websockets y thin. Así que
+  he vuelto a [puma.io](http://puma.io) con [faye-websocket](https://github.com/faye/faye-websocket-ruby).
+  Y ya va. Ahora me va por la cabeza hacer métricas con las temperaturas, lo
+  tengo que terminar de pensar.
+
+* Con el tema de [FreeNAS](http://freenas.org) y [OpenMediaVault](http://openmediavault.org)
+  ya estoy presupuestándomelo. Me he decantado por OMV en lugar de FreeNAS:
+
+  * Me ha gustado bastante mas la comunidad
+  * Compatiblidad de Hardware.
+  * ZFS es una máquina de comer dinero (Memoria ECC, placa que lo soporte ...)
+  * Con 4 discos duros, creo que me sale mejor un RAID10 que un RAIDZ
+
+* Y voy a volver a recuperar mis otros 2 pet projects
+  [mamba](http://github.com/nestorsalceda/mamba) y
+  [viper](http://github.com/nestorsalceda/viper). Que tengo ideas para hacer :)
+
+¡Buena semana!
