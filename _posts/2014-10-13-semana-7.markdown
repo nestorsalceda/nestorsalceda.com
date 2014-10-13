@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Semana 7"
+date: 2014-10-13 12:00
+category: retrospectiva
+---
+
+La semana de las fiestas de Zaragoza :) He tenido una parada de ritmo, pero he
+aprovechado bien para hacer cosas con [Go](http://golang.org) y llegan nuevos
+presupuestos.
+
+En los proyectos actuales:
+
+* Con [alea](http://alea-soluciones.com) he pasado 3 días de [Go](http://golang.org)
+  muy muy ricos. Noto todavía que me faltan idiomas, pero la impresión general es
+  muy buena, aunque a veces haya que satisfacer al compilador.
+
+* La gestión remota de puntos de acceso Cisco la tengo congelada. A ver si
+  avanzamos y lo cierro, que voy teniendo demanda para mas cosas y voy
+  retrasando hasta cerrar esto. Ya presupuesté el tema de seguridad, pero aún no
+  he recibido feedback.
+
+* Con el programa para enseñar a leer a niños recibí buen feedback y ahora hay
+  que desplegarlo, así que tengo que presupuestar esa salida a producción y un
+  CMS para poder tener secciones para miembros y no miembros.
+
+* Con el tema de las tarjetas de Amex, parece que tenemos una nueva ampliación,
+  que en cuanto me den el visto bueno a la solución habrá que presupestar.
+
+Con los proyectos personales:
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) ya tengo en la cabeza cómo
+  hacer el tema de las temperaturas, en su día pensé en Graphite + StatsD, pero
+  meterlo en una RaspberryPi me parece un poco salvaje. Así que vamos a ir a la
+  opción barata con un Redis, que hace ya tiempo que le tengo ganas.
+
+* Con el tema de [OpenMediaVault](http://openmediavault.org) lo voy
+  presupuestando conforme voy teniendo un hueco, pero lo estoy procrastinando un
+  poco.
+
+* Y no he hecho nada tampoco con los otros 2 pet projects.
+
+Y para terminar, ayer empezamos los trámites para apuntarnos a la liga de
+futbolín, que lo vamos a dar todo. Mi objetivo es pasarlo bien y me gustaría que
+no quedásemos los últimos :D
+
+¡Buena semana!
