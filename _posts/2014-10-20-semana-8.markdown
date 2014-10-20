@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Semana 8"
+date: 2014-10-20 11:00
+category: retrospectiva
+---
+
+Esta semana ha sido una semana de remar, de preparar más presupuestos y de
+intentar mover las cosas que tengo paradas, que se me están acumulando cosas
+nuevas y quiero ir liberando espacio. Tampoco ha sido especialmente fructífera,
+ya que he tenido un par de días de trabajar fuera de mi espacio, que hemos
+cambiado los aparatos de aire acondicionado y bomba de calor.
+
+En los proyectos actuales:
+
+* Con [alea](http://alea-soluciones.com) hemos estado con entrevistas, y ha sido
+  una semana de [vagrant](http://vagrantup.com) y puppet. Hemos aprovechado para
+  implementar algunas mejoras en el flujo de trabajo que salieron hace un par de
+  retrospectivas. Estuve también pensando en cómo hacer un contrato ágil con un
+  proyecto interno para alea.
+
+* La gestión remota de puntos de acceso Cisco sigue congelada. Hubo un intento
+  de empezar con la prueba piloto, pero al final no encontramos un buen sitio
+  para hacerla.
+
+* Con el programa para enseñar a leer a niños tengo que mandar el presupuesto de
+  la parte de membresía, pero parece que la solución tiene buena pinta.
+
+* Con el tema de las tarjetas de Amex, efectivamente tengo que hacer esta semana
+  ya el presupuesto y ajustar tiempos, para ver cuando lo puedo encajar.
+
+* El viernes tuve una reunión para lo que podría ser mi primer producto. Voy a
+  ver si puedo bajar el ritmo de hacer proyectos de terceros e intentar sacarlo
+  adelante, que creo que tengo la idea, la mano y el mercado para venderlo.
+
+Con los proyectos personales:
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) ya tengo las temperaturas
+  graficadas. Es muy curioso ver cómo se repiten determinados patrones en las
+  temperaturas según las horas del día.
+
+* Con el tema de [OpenMediaVault](http://openmediavault.org) lo tengo parado,
+  voy a ver si en cuanto cobre un par de facturas, lo dejo finiquitado.
+
+* Y no he hecho nada tampoco con los otros 2 pet projects. Pero tengo un
+  pull-request en mamba que lo despacharé hoy.
+
+Y finalmente, he pasado el fin de semana en Ansó, haciendo una marchita por la
+montaña, aprovechando que el verano se nos está alargando. ¡Recuerdo que la
+última vez que estuve en Ansó fue en 1997!
+
+¡Buena semana!
