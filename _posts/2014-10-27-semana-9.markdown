@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Semana 9"
+date: 2014-10-27 12:00
+category: retrospectiva
+---
+
+Una semana ha sido fuertota, con mucha preparación de nuevos presupuestos y
+alguna reactivación. Creo que debería centrarme en cerrar más cosas, que me dá
+la sensación que estoy abriendo muchas cosas de golpe y no cerrando ninguna.
+
+En los proyectos actuales:
+
+* Con [alea](http://alea-soluciones.com) ha sido una semana de mucho Go, y muy
+  conento con esto, que el viernes empecé a ver los commits para que esta parte
+  ya esté en producción. Ship it, ship it, ship it :D
+
+* En la gestión remota de puntos de acceso Cisco hicimos la prueba piloto el
+  Jueves a primera hora. Cambiamos el valor de la contraseña del punto de
+  acceso, pero llega un momento que nos desconecta de la red. Este viernes
+  estudiaremos más profundamente esto.
+
+* Ya tengo empezada la parte de membresía con el programa de enseñar a leer a
+  niños. El objetivo de esta semana es cerrar este proyecto ya.
+
+* Con el tema de las tarjetas de Amex, voy bastante petado de tiempo y no he
+  podido meter mano a presupuestar.
+
+Con los proyectos personales:
+
+* Con [mamba](http://github.com/nestorsalceda/mamba) estuve arreglando un par de
+  issues y he empezado la funcionalidad de focused specs para poder ejecutar
+  sólo un contexto o un spec.
+
+El fin de semana he estado en Barcelona, en la [Software Craftmanship Barcelona
+2014](http://www.softwarecraftsmanshipbarcelona.org/) y he vuelto con las pilas
+a tope y con un montón de networking y desvirtualización hechos. A esto le
+dedicaré un post entero con las notas que he ido tomando en las charlas.
+
+¡Disfrutad de la semana!
