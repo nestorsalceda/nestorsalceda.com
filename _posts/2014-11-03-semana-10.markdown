@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Semana 10"
+date: 2014-11-03 23:00
+category: retrospectiva
+---
+
+Esta semana ha sido intensa también, tanto en lo laboral como en lo personal. He
+decidido ir cambiando las prioridades de mis proyectos para conseguir más tiempo
+para otras cosas.
+
+En los proyectos actuales:
+
+* Con [alea](http://alea-soluciones.com) seguimos con [go](http://golang.org) a
+  todo trapo. Estoy muy contento porque ya vamos viendo la luz al final del
+  túnel. Eso sí, todos los días hemos hecho Pair Programming y pese a que vamos
+  cogiendo ritmo, es agotador.
+
+* En la gestión remota de puntos de acceso Cisco me anularon el Jueves por la
+  tarde la cita del Viernes. No es muy problemático, pero me hubiese gustado
+  saberlo antes. Espero dejarme esto terminado esta semana.
+
+* Ya tengo desplegada la parte de membresía, el programa de enseñar a leer y
+  todo en una máquina propia. Como ya llevo un tiempo haciendo cosas con
+  [docker](http://docker.io) me ha parecido bien ponerlo en producción con este
+  proyecto.
+
+* Con el tema de las tarjetas de Amex empecé a presupuestar pero me encontré con
+  un muro que hace que estos cambios sean imposibles de realizar. Tengo que
+  conseguir explicárselo bien al cliente, que esto no son buenas noticias.
+
+No he tenido tiempo para proyectos personales y esto me hace plantearme algunos
+cambios que debería hacer. Es curioso como una conversación con [Xavi
+Gost](https://twitter.com/XaV1uzz) empieza a retumbar en mi cabeza.
+
+El miércoles estuve con [Dani Latorre](http://danilat.com) y, como caballeretes,
+nos fuimos al barbero para empezar Movember con los
+[cachirulistas](http://moteam.co/cachirulovalley), aprovechamos para ver a [Ara
+Malikian](http://www.aramalikian.com) y estuvimos también en la fiesta de
+[Zentyal 4.0](http://www.zentyal.org).
+
+Montaron una fiesta muy molona y metalera con los Iron Maños y un grupo
+de tributo a Platero y Tú. Creo que esta gente en lugar de sangre
+tiene mercurio. Además de esto, en la parte profesional, es una de las empresas
+de Zaragoza en las que me molaría trabajar, un ambiente bastante guay y para la
+gente que tenemos Unix como lengua materna, es también un ambiente bastante hacker.
+
+El fin de semana he estado en Córdoba, de viaje con la familia.  Me gustan las
+cuidades por las que han pasado varias culturas.  Me ha encantado.
+
+Nuevos cambios:
+
+* Hace un tiempo que [Eduardo Ferro](http://www.eferro.net) publica un post con
+  podcasts o charlas que ha visto. Para conseguir ver al menos una charla cada
+  semana voy a publicar en esta retrospectiva cual es la que he visto en la
+  semana.
+
+¡A merendarse esta semana!
