@@ -1,0 +1,77 @@
+---
+layout: post
+title: "Semana 11"
+date: 2014-11-10 12:00
+category: retrospectiva
+---
+
+Esta semana ha sido completa. No lo digo tanto en el sentido de variedad, que
+también, sino en el sentido que he tenido los 7 días a tope.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) hemos tenido un poquito de
+  [go](http://golang.org) que ya estamos utililizando en nuestro laboratorio
+  esta parte. Se me ha ido bastante tiempo también preparando las cosas para la
+  [PyConES 2014](http://2014.es.pycon.org), pero de eso hablaremos luego :)
+
+* En la gestión remota de puntos de acceso Cisco estuvimos el miércoles haciendo
+  las pruebas en el laboratorio y ya parece que he encontrado el problema que
+  había con la autenticación. También me han aprobado un presupuesto que tenía
+  en el limbo de los presupuestos, así que tendré que implmentar un sistema de
+  seguridad para esta aplicación.
+
+* Con la parte de doman, ya lo tengo terminado y dockerizado. Estoy revisando el
+  cambio de DNS a ver si llega y lo dejamos facturado.
+
+* Con el tema de las tarjetas de Amex le he dado la explicación al cliente y no
+  he sabido nada más del tema. Así que creo que para la semana que viene este
+  punto ya desaparece.
+
+###Proyectos personales
+
+Los proyectos personales han seguido parados, pero ya voy viendo cómo poder
+hacerme hueco.
+
+###Recomendación de contenido
+
+Para esta semana, os recomiendo la charla de Sandro Mancuso de [Crafted
+Design](https://vimeo.com/107963074).
+
+Pese a que me suele salir con bastante
+estilo de DDD, me ha gustado bastante el aporte de las "Actions" como punto de
+entrada. También me ha sido útil ver la organización física de los proyectos,
+así que voy a probarla en alguno de mis proyectos.
+
+###PyConES 2014
+
+Y finalmente, el fin de semana ha sido en Zaragoza la [PyConES
+2014](http://2014.es.pycon.org). Salgo con bastante buen sabor de boca y hay
+algunos puntos que quiero anotar y compartir:
+
+* Pese a los cambios de última hora, la charla de [Docker](http://docker.io) me
+  pareció bien. Pero también es cierto que últimamente echo de menos cosas que
+  no sean tan básicas e integraciones con otros sistemas: Fleetd, Consul, Fig ...
+
+* Me gustó la charla de Concurrencia de IO. Me pareció un buen resumen de las
+  diferentes opciones que hay y ejemplos. Me gusta ver el código.
+
+* Decidí salir de mi zona de confort y acudí al taller de [Pilas
+  Engine](http://pilas-engine.com.ar/index.html). En mi vida había
+   programado algo parecido a un videojuego y me llevé muy buena
+  experiencia. Me gustó que el ponente lo utilizase en sus clases con chavales
+  del segundo ciclo de secundaria, creo que es un modo interesante de acercar la
+  programación a la aulas.
+
+* Y con el taller que dimos, contento. Nos esperábmos unas 10 parejas, pero se
+  nos llenó y tuvimos que improvisar un poco. Aún así, leyendo algunos tuits,
+  creo que la gente se quedó contenta con lo que enseñamos.
+
+La organización me pareció bastante bien también, y aunque ya [dí las
+gracias](https://twitter.com/nestorsalceda/status/531555436156436482) creo que
+debo volver a agradecerlo.
+
+Como contrapunto, para poner algo a mejorar, creo que tenemos que ponerle
+solución al tema del WiFi, que iba un poquillo regulero.
+
+¡Disfrutad de la semana!
