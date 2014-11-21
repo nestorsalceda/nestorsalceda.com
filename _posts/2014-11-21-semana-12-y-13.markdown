@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Semanas 12 y 13"
+date: 2014-11-21 11:00
+category: retrospectiva
+---
+
+Estas dos semanas han sido un poco diferentes, lo primero es que no publiqué el
+lunes, pero tengo 2 buenos motivos para ello: El primero es que he estado de
+desksurfing en la cueva y la segunda es que he decidido hacer esta publicación
+los viernes, que suelo dedicar a organizarme la siguiente y otras tareas
+administrativas.
+
+Así, que en algún momento había que romper.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) he seguido con
+  [go](http://golang.org), en temas de infraestructura y hemos avanzado en más
+  cosas de infraestructura.
+
+* La gestión remota de puntos de acceso Cisco, la tengo ya cerrada y probada. Al
+  final parece que había algún problema con el servidor radius y la gestión de
+  claves WPA. Ahora tengo 3 semanas para terminar la parte de autenticación.
+
+* Con la parte de doman, ya están los cambios en el DNS y creo que salvo el copy
+  ya está cerrado también.
+
+###Proyectos personales
+
+* Con [mamba](http://github.com/nestorsalceda/mamba) se puso en contacto conmigo
+  un muchacho de México y me dio una alegría al ver que se usaba. Y he arreglado
+  un error de los que me comentaba: el de las excepciones en los hooks,
+  especialmente en el before.each que era un poco molesto.
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) he estado enredando con un
+  [tema de Bootstrap](http://almsaeedstudio.com/AdminLTE/index.html). Al no
+  tener talento estético, me tengo que buscar la vida y aprender de cosas ya
+  hechas.
+
+###Recomendación de contenido
+
+Esta semana ha sido de temática diferente: Rob Pike [Go Concurrency
+Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
+
+En esta charla se centra bastante en la parte de concurrencia de Go, y me gusta
+que se le ponen nombres a algunas cosas. Me ha gustado ver que lo de devolver
+canales no implica un problema y que se pueden hacer dobles de un canal.
+
+¡Tened una buena semana!
