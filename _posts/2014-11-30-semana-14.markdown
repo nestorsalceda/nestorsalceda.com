@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Semanas 14"
+date: 2014-11-30 18:30
+category: retrospectiva
+---
+
+Esta semana ha sido de las normales, de las tranquilas, avanzando a un ritmo
+constante pero también fuerte.
+
+Quería haber escrito el viernes, pero me desperté un poco tarde después de la
+cena de Movember en La Jamonería.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) estuve lunes y martes en Madrid.
+  Estuvimos haciendo una inception de un nuevo desarrollo y discutiendo algunos
+  problemas que nos están saliendo con la infraestructura y los deploys, así que
+  vamos a cambiar un poco la aproximación que estamos siguiendo para ver si las
+  nuevas ideas que tenemos se nos adaptan bien.
+
+* Con la autenticación para la gestión remota de puntos de acceso Cisco, empecé
+  a hacer un spike para autenticar contra un servidor LDAP. Y dio buen fruto.
+  Con esto ya puedo empezar a hacer código de producción.
+
+* Con la parte de doman, ya creo que está casi todo cerrado, así que voy a ver
+  si saco alguna lista de cosas que estén pendientes y poder dejarlo facturado
+  esta semana.
+
+* Me he echado un padawan. Su nombre es [Nacho](http://twitter.com/nachokyoku).
+  El jueves estuvimos hablando de herramientas y pillando algo de soltura con la
+  shell, con Vim y con Git. Hicimos la kata de FizzBuzz en Ruby y luego en Java,
+  para empezar a infectarle con TDD. Estoy contento con este paso, pero me hace
+  salir mucho de mi zona de confort, por lo que creo que voy a aprender un
+  montón de cosas.
+
+* El domingo estuve con [Dani Latorre](http://danilat.com) y con [Javi
+  Rubio](http://javirubio.net) dándole forma a una idea que tenemos entre manos.
+  Ya hemos a anotar las ideas y algunas tareas organizativas.
+
+###Proyectos personales
+
+* Con [mamba](http://github.com/nestorsalceda/mamba) no he avanzado en nada mas,
+  tengo que hacer una release con el último fix que hice.
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) he añadido una tira adicional
+  a la parte de debajo de la mesa. El invierno hace que haya menos luz y aunque
+  es una luz de ambiente, el tenerla un poco más potente, me puede ayudar por si
+  tengo que leer algo que he apuntado o alguna cosa así. También estuve pensando
+  en mirar alguna tira con el doble de leds por metro de la que uso ahora, pero
+  esta opción es mas barata ahora mismo, y con ello seguiré.
+
+###Recomendación de contenido
+
+Pese a que no es la charla que más me gusta de Koldo Saratxaga, igual un poco
+larga también, pero me gusta mucho por el contexto que tiene. [Koldo Saratxaga:
+CAS2013 Keynote](http://www.youtube.com/watch?v=StbOO2VtD9U).
+
+Me llama la atención el modelo basado en personas, y me gusta mucho la
+diferencia que hace entre crecimiento y desarrollo. Es un poco cruel comparar
+con otras personas que tienen [estilos diferentes de
+gestión](http://elpais.com/tag/monica_de_oriol_icaza/a/), pero creo que es algo
+inevitable.
+
+¡Disfrutad de la semana!
+
