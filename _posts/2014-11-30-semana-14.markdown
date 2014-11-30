@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Semanas 14"
+title: "Semana 14"
 date: 2014-11-30 18:30
 category: retrospectiva
 ---
