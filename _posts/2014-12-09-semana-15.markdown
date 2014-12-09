@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Semana 15"
+date: 2014-12-09 8:30
+category: retrospectiva
+---
+
+Esta semana ha sido fuertecilla, que ya se acerca la navidad y hay que ir
+cerrando cosas y preparando cosas nuevas para el año que viene.
+
+Quería haber escrito el viernes, nuevamente, pero no encontré un buen momento.
+Creo que debería dejarme un ratito por la tarde para hacer esto.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) estuve con una nueva aplicación para
+  nuestros colegas de operaciones. He tirado por el stack habitual (Python,
+  Tornado, Bootstrap), a ver si me da tiempo a terminarla antes de fin de año.
+
+* Con la autenticación para la gestión remota de puntos de acceso Cisco, ya la
+  tengo casi, casi. Así que voy a ver si cierro una cita para hacer las pruebas.
+
+* Con la parte de doman, tengo que hacer un cambio en el wordpress. Espero
+  dejármelo hecho hoy.
+
+* Con Nacho, estuvimos practicando TDD y dedicamos toda la mañana a la kata de
+  romans en Ruby. Tengo pendiente hacer una retrospectiva con el para esta
+  semana, pero me ha molado bastante el que haya empezado a mirar cosas por su
+  cuenta y de vez en cuando me suene el móvil con algún enlace de Ruby o de TDD o
+  de Git.
+
+* Estuve haciendo un presupuesto para una formación de Docker.
+
+* El proyectete con Dani Latorre y Javi Rubio lo tengo un poco parado, a ver si
+  le pegamos un arreón.
+
+###Proyectos personales
+
+Poca cosa aquí. Esta semana me dejo sin falta el tema del NAS hecho, que se
+acaba el año y no quiero dejármelo para el año que viene.
+
+He migrado mis dos máquinas a [ArchLinux](http://archlinux.org). Creo que el
+tema de que sea una rolling, lo de aplicar pocos parches a los paquetes, el
+minimalismo y salir de mi zona de confort son cosas que me encajan ahora mismo.
+
+###Recomendación de contenido
+
+Esta semana es la [kata de los números romanos de Sandro Mancuso.](https://www.youtube.com/watch?v=iZjgj1S0FCY)
+
+Además como la estuvimos haciendo en Ruby, es interesante verla en otros
+lenguajes también.
+
+¡Disfrutad de la semana!
+
