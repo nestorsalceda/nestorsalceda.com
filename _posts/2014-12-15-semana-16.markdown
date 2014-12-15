@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Semana 16"
+date: 2014-12-15 17:30
+category: retrospectiva
+---
+
+Semana muy muy corta, ha sido el puente del 6 de Diciembre y el viernes me
+marché por la mañana a Bilbao, que había conciertazo de los
+[Sabaton](http://sabaton.net) por la tarde.
+
+Aun así, ya sabemos que los autónomos tenemos 2 peculiaridades:
+
+* Si hay un puente, pero vas a tope de curro, pues digamos que el puente es algo
+  *orientativo*.
+* Si hay un puente, te vas a poner enfermo.
+
+Afortunadamente, estoy más sano que una pera y sólo tuve que comprimir el
+trabajo.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) estuve con la nueva aplicación. Tengo
+  muy buena sensación, ya que ha salido un sprint cero bastante bueno y en la
+  demo aún había alguno que ya decía que eso se podía usar. Para esta semana
+  tengo que hacer cosas con el feedback y a ver si termino las últimas 2
+  funcionalidades.
+
+* La autenticación para la gestión remota de puntos de acceso Cisco, ya la tengo
+  para probar.
+
+* Con la parte de doman, se me ha detenido un poco. Creo que estoy demorándome
+  un poco cerrando este proyecto.
+
+* A Nacho, ya le tengo bastante infectado. Estuvimos terminando la kata de
+  Romans y también hicimos la de Piedra, papel o tijera. Hice un poco de énfasis
+  en el diseño orientado a objetos y hablamos de los principios SOLID, y sin que
+  el lo sepa (¡no todo va a ser cariño en esta relación!), le dejé caer un poquito
+  de dobles de test. Yo creo que igual esta semana vamos a por la kata de Marvel
+  y empezamos a hacer cosas de verdad.
+
+* Estoy en fase de negociación con el presupuesto de la formación en Docker. La
+  verdad es que tengo muchísimas ganas de que salga esta formación.
+
+* Con Dani Latorre y Javi Rubio nos vimos el jueves por la tarde, antes de la
+  cena de "los sin empresa" de Zaragoza. Sacamos tarjetas nuevas y vamos
+  planificando. Creo que esta semana se empezará a oír algo ya de nosotros.
+
+###Proyectos personales
+
+Ya tengo encargadas las piezas del NAS, y yo creo que hacia el final de la
+semana me lo dejaré montado.
+
+###Recomendación de contenido
+
+Para esta semana voy a recomendar a Xavi Gost y una charla de [refactoring to
+patterns](https://www.youtube.com/watch?v=ME30PL5jn04).
+
+Me encanta el concepto del "switch del hombre pobre" y además Xavi tiene un
+estilo muy personal. Me gustan las cosas claras, así que hasta estoy valorando
+la opción de su [curso de Refactoring a Patrones](http://geekshubsacademy.com/courses/refactoring-xavi-gost.html).
+
+¡Disfrutad de la semana!
+
