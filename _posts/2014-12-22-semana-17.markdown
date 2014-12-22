@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Semana 17"
+date: 2014-12-22 9:15
+category: retrospectiva
+---
+
+Ya la última semana productiva antes de encarar la navidad. Apurando para cerrar
+cosas.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) estuve con la nueva aplicación y ya
+  estoy dando los retoques finales. Espero que mañana haya terminado ya con la
+  lista de funcionalidades y vayamos ya sobre feedback.
+
+* La autenticación para la gestión remota de puntos de acceso Cisco, la probamos
+  el lunes, pero hubo un problema grande en la red del cliente y tuve que quedar
+  otra vez el viernes. El viernes salió todo bien y ya tenemos fecha para la
+  prueba piloto.
+
+* Con la parte de doman tengo que dar instrucciones para como actualizar el
+  wordpress. Esta parte va bastante lenta :(
+
+* Con Nacho parece que ya tiene ganas de hacer cosas de verdad. Así que
+  empezamos a hacer un spike con el [API de las Bizis de
+  Zaragoza](https://www.zaragoza.es/ciudad/risp/detalle_Risp?id=70) y con
+  [InfluxDB](http://influxdb.com/). Quería sacarlo de lo que le habían enseñado
+  de bases de datos. Estuvimos monitorizando durante todo el día las bicis
+  disponibles y vimos los picos de comportamiento a la hora de comer y al salir de
+  trabajar.
+
+* El curso de Docker ha salido! Así que me iré en Enero un par de días a darlo
+  :)
+
+* Con Dani Latorre y Javi Rubio estuvimos comentando lo que queríamos hacer con
+  la gente de [Agile Aragón](http://agile-aragon.org/) y me dio buena impresión.
+  Ahora a ver si nos juntamos para preparar la landing.
+
+###Proyectos personales
+
+Tengo ya las piezas del NAS, pero me llegó el micro jodido. La verdad es que
+llegó sin caja y sólo envuelto en papel de burbujas, así que vaya vuestra merced
+a saber cuantos golpes y cuanta electricidad estática se comió en el trayecto.
+Así que he empezado los trámites de devolución y que me manden uno nuevo a
+poder ser, bien envuelto.
+
+Al final he decidido poner una Debian Wheezy y un RAID 10 con btrfs y paso de
+appliances y frontales web. Para instalar las aplicaciones, me gustaría hacerlo
+todo a través de Docker. Así que en cuanto lo tenga montado, prepararé un post
+con el tema :)
+
+Estuve también escribiendo sobre la entrega de valor, que yo creo que para esta
+semana lo puedo tener.
+
+###Recomendación de contenido
+
+Para esta semana, algo más ligerito:  Spotify Engineering Culture: [Part
+1](http://vimeo.com/85490944) y [Part 2](http://vimeo.com/94950270)
+
+Son vídeos viejos, pero me gusta mucho el estilo y que son claros y concisos. Y
+me gusta mucho la idea de los "Autonomous Squads", me recuerda a un estilo de
+organización celular.
+
+¡Disfrutad de la semana!
+
