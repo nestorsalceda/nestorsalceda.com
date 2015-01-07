@@ -8,8 +8,9 @@ El 11 de Diciembre estuve por la tarde en Bilbao, en un concierto de un grupo
 que se llama [Sabaton](http://sabaton.net). Es un grupo sueco, bastante cañero,
 y se caracteriza por narrar sucesos bélicos. No soy la primera persona en
 escribir sobre [este tema](http://www.perezreverte.com/articulo/patentes-corso/177/corses-goticos-y-cascos-de-walkiria/)
-y aunque en algunas cosas tenemos opiniones totalmente diferentes, este artículo
-en particular me gusta muchísimo.
+y aunque en algunas cosas tenemos opiniones totalmente diferentes, [este artículo
+en particular](http://www.perezreverte.com/articulo/patentes-corso/177/corses-goticos-y-cascos-de-walkiria/)
+ me gusta muchísimo.
 
 Todo empezó con un "We are Sabaton, and we play heavy metal", gritos, cuernecitos arriba
 y de repente, se activó la conexión neuronal: ["¡Hola! Soy Néstor Salceda y hago
