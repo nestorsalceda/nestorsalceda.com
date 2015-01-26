@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Semana 19"
+date: 2015-01-26 9:00
+category: retrospectiva
+---
+
+Una semana normal, corriente y moliente. Parece que se mueve algún proyecto
+nuevo, pero poca cosa más.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) ya he vuelto a la programación por
+  parejas y al ritmo normal.
+
+* En la autenticación para la gestión remota de puntos de acceso Cisco, no lo
+  hemos cerrado esta semana. Y me temo que se va a alargar, ya que me marcharé
+  unos días de vacaciones.
+
+* En esta parte, hubo un poco de movimiento y parece que se quiere dejar lanzado
+  hoy lunes. Este proyecto se había dormido, pero con un poco de suerte, se
+  queda ya cerrado.
+
+* Tengo a Nacho de exámenes.
+
+* Con [SenpaiDevs](http://senpaidevs.com) estuvimos organizando el local, y
+  enviando los emails de preselección. Esta semana ya dejaremos todo listo para
+  arrancar.
+
+* Como últimamente me están llegando algunas ofertas para temas de consultoría,
+  dediqué un poco de tiempo a hacerme una plantilla personalizada para este tipo
+  de documentos. Aunque aún le faltan unos detalles, ya se puede enseñar, y está
+  disponible en [este enlace](https://www.dropbox.com/s/wdyrcw2kbnmg5h8/example.pdf?dl=0).
+  He querido volver a LaTeX para este tipo de documentos :)
+
+###Proyectos personales
+
+He aprovechado esta semana para mover los repositorios privados a
+[Bitbucket](http://bitbucket.org). El precio que tenía con
+[GitHub](http://github.com) no era elevado, pero empezaba a necesitar más
+repositorios y sólo estoy utilizando el almacenamiento, ni pull-requests, ni
+wiki, ni issues. Así qué vamos a ver qué tal va.
+
+###Recomendación de contenido
+
+Esta semana he visto la charla de [Xavi Gost sobre la economía del
+refactoring](https://www.youtube.com/watch?v=mqjvkL2h3_I&list=PLkRxqbI6n7Ke1uhnb9HYvY2XbJ_LzNxG5&index=26)
+
+Me gusta el tono enérgico de Xavi, y en un momento pensé que era el único que se
+quedaba con el culo torcido cuando oía lo de:
+
+> Estoy en medio de una semana de refactoring
+
+Así que estoy contento de saber que no soy el único, y me gusta que haya gente
+que lo ponga claro. Reescribir es reescribir, y está bien cuando es necesario,
+pero refactorizar es refactorizar. Y sobre todo, refactorizar no es reescribir.
+
+¡Disfrutad de la semana!
+

@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Semana 18"
+date: 2015-01-19 9:00
+category: retrospectiva
+---
+
+Estas semanas han sido las de la vuelta de navidades y, la verdad, es que con la
+retrospectiva del año y algún otro artículo lo he ido dejando pasar un poco.
+
+También me he dado cuenta que lo de hacer la retrospectiva los viernes no lo
+estoy cumpliendo bien, así lo vuelvo a poner los lunes y me sirve para
+planificarme la semana.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) ya tengo cerrada la aplicación que
+  estaba haciendo. Cerrada y facturada y volvemos al proyecto original. Estos
+  últimos días he estado jugando bastante con docker, pero en la parte de
+  desarrollo, para ver cómo podemos empezar a meterlo.
+
+* En la autenticación para la gestión remota de puntos de acceso Cisco, tuvimos que
+  retrasar la prueba en tienda. Debería dejarlo cerrado para esta semana.
+
+* Con la parte de doman la tengo parada. Tengo que reactivar y cerrar este proyecto.
+
+* Con Nacho seguimos avanzando e hicimos una retrospectiva. Le he puesto como
+  deberes que se lea el [Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer) y
+  nos salió el tema del foco y hacer cosas de verdad. Así que vamos a elegir un
+  proyecto pequeñajo y a ponerlo en producción. Pero creo que esto será ya
+  cuando acabe los exámenes.
+
+* La semana pasada hice el curso de Docker en la [Universitat Jaume
+  I](http://ujiapps.uji.es/) y estoy muy contento del resultado. Me volví con la
+  impresión de que aprendieron bastantes cosas, y que muchas de esas cosas las
+  pueden aplicar ya mismo. Además me trataron muy muy bien. Tengo el contenido
+  del curso [en un repositorio de Github](https://github.com/nestorsalceda/formacion-docker) por si a alguien le
+  interesa verlo, y me gustaría repetirlo en Zaragoza, Madrid o Barcelona.
+
+* Con [SenpaiDevs](http://senpaidevs.com) nos hemos movido por eventos y tenemos
+  ya inscritos. Creo que el miércoles nos juntaremos y empezaremos a cerrar las
+  fechas.
+
+###Proyectos personales
+
+Tengo el NAS funcionando, y estoy muy contento con el resultado. Lo he hecho todo
+con Docker y me falta definir la estructura de copias de seguridad un poquito
+más, que aunque ya las hago, me gustaría dejar organizada la estructura y ver
+qué puedo hacer para ponerle un buscador de ficheros.
+
+[Tengo un repositorio en github](https://github.com/nestorsalceda/colossus) con la configuración.
+
+He tenido un poco de actividad con
+[viper](https://github.com/nestorsalceda/viper) así que igual aprovecho para
+darle unos empujones.
+
+###Recomendación de contenido
+
+Para esta semana me ha pillado el toro y no he podido parar a ver nada, así que,
+para la siguiente será.
+
+¡Disfrutad de la semana!
+
