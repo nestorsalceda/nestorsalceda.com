@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Semanas 20 y 21"
+date: 2015-02-16 8:50
+category: retrospectiva
+---
+
+Estas dos semanas las hago juntas, ya que he estado de vacaciones unos cuantos días.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) hemos estado con el ritmo normal y las
+  tareas de desarrollo normales. Estamos ya empezando a pensar el deploy con
+  Docker.
+
+* Con el tema de los puntos de acceso de Cisco, ya está hecha la prueba piloto y
+  ha ido todo bien. Nos faltará una prueba más con los últimos fixes y yo creo
+  que se queda cerrado.
+
+* Con la parte de la lectura para niños, se va moviendo y creo que pronto estará
+  lista para dejarla cerrada.
+
+* Con Nacho y sus exámenes terminados, vamos a hacer una aplicación para llevar
+  la clasificación de la liga del futbolín, que últimamente se actualizan poco
+  los resultados y esto hay a gente que no le mola.
+
+* Con [SenpaiDevs](http://senpaidevs.com) empezamos el martes!
+
+* Parece que tengo en el punto de mira un proyecto con Python y PyQt. Hace un
+  montón que no toco Qt, pero me apetece bastante meterme. Aún así, a ver cómo
+  me lo hago para cuadrar los tiempos, que creo que tengo mucho WIP ahora mismo.
+
+###Proyectos personales
+
+He recibido un par de issues en mamba, que tengo que cerrar.
+
+###Recomendación de contenido
+
+La de esta semana es sobre motivación.
+
+[Dan Pink: The puzzle of
+motivation](http://www.ted.com/talks/dan_pink_on_motivation?language=en)
+
+Hace ya unos años que me da la sensación que estamos utilizando técnicas y
+herramientas del siglo XIX o XX para resolver nuestros problemas del siglo XXI.
+Y me alegra saber que no soy el único que lo piensa.
+
+¡Disfrutad de la semana!
+
