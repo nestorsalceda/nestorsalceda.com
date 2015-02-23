@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Semana 22"
+date: 2015-02-23 9:20
+category: retrospectiva
+---
+
+Esta semana ha sido la de la vuelta de las vacaciones, y sin embargo me estoy
+notando un poquillo estancado. Quizás no he completado el aterrizaje aún, pero
+hay que ponerse las pilas, que hay muchas cosas que hacer.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) ha sido una semana normal y corriente,
+  pairing, nuevas funcionalidades y un futuro inmediato con muy buena pinta en
+  la parte de sistemas.
+
+* Con el tema de los puntos de acceso de Cisco, tengo que dar un toque para ver
+  si ya tengo esto cerrado.
+
+* Con la parte de la lectura para niños, parece que está ya cerrado, pero tengo
+  que confirmarlo.
+
+* Con Nacho sacamos a producción una primera versión muy básica de la aplicación
+  de la liga. Sólo hace la clasificación por puntos, pero conseguí explicarle
+  como montar el esqueleto y empezar a hacer TDD. El código está en
+  [GitHub](https://github.com/nestorsalceda/liga-futbolin) y la aplicación está
+  desplegada en [Heroku](http://lafzaragoza.herokuapps.com).
+
+* Con [SenpaiDevs](http://senpaidevs.com) tuvimos las 2 primeras sesiones y la
+  verdad es que estoy muy contento. Creo que hemos elegido a gente con
+  muchísimas capacidades y muchísimas ganas de mejorar. Este Jueves haremos la
+  primera retrospectiva y a ver qué sacamos :)
+
+* El proyecto de Python y PyQt se ha caído. Una lástima, pero son cosas que
+  pasan.
+
+###Proyectos personales
+
+He añadido soporte para Python 2.6 en mamba y estuve haciéndome una pequeña
+inception para el tema de la aplicación para los gimnasios, pero creo que voy a
+tirar hacia prototipos en primer lugar, que es un mundo que conozco poco y no sé
+bien si lo que quiero hacer, lo quiere comprar alguien.
+
+###Recomendación de contenido
+
+Esta semana, la charla es más técnica: [Robert C. Martin - Advanced TDD: The
+transformation priority premise](https://vimeo.com/97516288)
+
+Este hombre es un comunicador bastante bueno, y las charlas de la NDC molan
+bastante.
+
+¡Sed felices esta semana!
+
