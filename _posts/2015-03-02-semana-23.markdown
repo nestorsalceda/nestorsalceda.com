@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Semana 23"
+date: 2015-03-02 9:20
+category: retrospectiva
+---
+
+Semana hasta arriba de nuevas propuestas para colaboraciones. Normalmente la
+semana que me llegaban 2 ó 3, era buenica; pues bien, el Jueves tenía 6 encima
+de la mesa. A ver cómo me organizo.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) ha sido una semana normal, ya
+  aterrizado y haciendo algunos ajustes en las aplicaciones y revisando algunos
+  componentes de sistemas.
+
+* Con el tema de los puntos de acceso de Cisco, tengo que dar un toque para ver
+  si ya tengo esto cerrado, que no lo hice la semana pasada.
+
+* Con la parte de la lectura para niños, se me acumula otra semana más. Voy a
+  dar un toque para ver si lo tengo ya cerrado.
+
+* [Nacho](https://twitter.com/Nachokyoku) ha empezado las prácticas y se nos
+  solapan los Jueves, así que a ver cómo lo encajamos. Vino un poquito más tarde
+  y me pilló haciendo un prototipo para la gestión de gimnasios.
+
+* Con [SenpaiDevs](http://senpaidevs.com) tuvimos clases y tuvimos
+  retrospectiva, luego nos fuimos a ver a David Cabo en La Jamonería, con el
+  grupo de Ruby. Me quedó bastante claro que tengo que dejar más tiempo cuando
+  muestro código, que si no, se me pierden los muchachos.
+
+* Con la gente de Amex parece que se han colado unas cuantas modificaciones, voy
+  a ver cómo puedo asumir esto.
+
+###Proyectos personales
+
+Hay alguna cosa nueva, de la que hablaré más adelante, pero quiero que gane
+tracción el tema de los gimnasio también.
+
+###Recomendación de contenido
+
+Esta semana he estado revisando un plugin de Vim, que se llama
+[UltiSnips](https://github.com/SirVer/ultisnips). Tiene muy buena pinta, pero lo
+cierto es que no uso este tipo de plugins. Igual es cuestión de empezar a
+planteárselo.
+
+En [Vimcasts](http://vimcasts.org/episodes/meet-ultisnips/) lo tenéis
+disponible.
+
+¡Sed felices esta semana!
+
