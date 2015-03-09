@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Semana 24"
+date: 2015-03-09 9:20
+category: retrospectiva
+---
+
+En esta semana he tenido sensación de progreso, y eso que el Jueves era fiesta
+local en Zaragoza, pero aún estuve trabajando un rato, que me han llegado
+algunas propuestas nuevas.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) ha sido una semana un poco rara, ha
+  tocado meterle un poquillo de mano al Puppet, y cada día lo tengo más claro, ni con
+  un palo. Afortunadamente, es un tema ya legacy y no se toca mucho. Ha habido momentos que molan
+  y es los primeros despliegues con Docker para las aplicaciones.
+
+* Con el tema de los puntos de acceso de Cisco, tuvimos una reunión y terminamos
+  de cerrar el programa. Esta semana mandaré la última versión y a facturar.
+
+* Con la parte de la lectura para niños, se me sigue acumulando. Mal con esto.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) seguimos con la parte de los
+  gimnasios.
+
+* Con [SenpaiDevs](http://senpaidevs.com) tuvimos clase el Martes, y estuve
+  intentando arreglar el tema del ADSL con OpenWrt. A ver si me lo meriendo
+  mañana y dejamos el router cambiado.
+
+* Con la gente de Amex he estado mandando algunas propuestas y preparando el
+  presupuesto con el feedback que me devuelvan.
+
+* Con los pressrooms de Pedro del Hierro y Cortefiel me han pedido algún reporte
+  de ancho de banda y algo para conseguirlo cada mes. Estoy acabando de
+  pensar cómo hacerlo.
+
+###Proyectos personales
+
+El rey de esta semana ha sido el tema de los gimnasios, el viernes tuve una demo
+y la verdad es que la parte de negocio se quedó bastante sorprendida con el
+resultado.
+
+Así que hemos decidido que vamos a sacar lo mínimo que podamos vender y a por
+todas, que esto puede funcionar.
+
+###Recomendación de contenido
+
+En esta semana es un artículo. [Reglas de Diseño de Kent
+Beck](http://martinfowler.com/bliki/BeckDesignRules.html) sintetizadas por Martin
+Fowler.
+
+Me gusta mucho el gráfico con las prioridades:
+
+1. Que pasen los tests
+2. Que el código revele la intención / Que no exista duplicación
+3. Que tenga los menos elementos posibles
+
+Son 3/4 reglas y son concretas, me gusta mucho ese resumen.
+
+¡Sed felices esta semana!
+
