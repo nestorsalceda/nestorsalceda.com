@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Semanas 25 y 26"
+date: 2015-03-23 9:20
+category: retrospectiva
+---
+
+Dos semanas a tope, con viaje a Madrid y todo, que ya tenía ganas también. Voy
+con retraso con algunas propuestas, pero ya parece que tengo todo un poco más
+cerrado.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) ha sido semana de avance, hemos
+  mejorado el tema del deploy con Docker y he vuelto a programar, que tenía
+  muchísimas ganas.
+
+* Con el tema de los puntos de acceso de Cisco, estoy esperando la confirmación
+  de que está cerrado. Hoy escribiré para que no se olviden de mí, que estas
+  cosas me cuestan un poquito.
+
+* Con la parte de la lectura para niños, parece que se movió un poco, pero sigue
+  parada.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) ha estado de prácticas y no hemos
+  podido avanzar mucho.
+
+* Con [SenpaiDevs](http://senpaidevs.com) tuvimos clase, me tuve que saltar la
+  del martes, que estaba volviendo de viaje. El jueves nos vino a ver [Alberto
+  Gualis](https://twitter.com/gualison) y nos comentó cómo se organizan en
+  [Frogtek](http://frogtek.org).
+
+* Con la gente de Amex hay movimiento, y en los próximos días creo que tendré
+  que preparar un presupuesto.
+
+* Con los pressrooms de Pedro del Hierro y Cortefiel ya sé como automatizar la
+  generación del reporte.
+
+###Proyectos personales
+
+De nuevo estas dos semanas, he empleado bastante tiempo en el tema de la gestión
+de los gimnasios, y ya tengo una primera versión desplegada. Espero esta semana
+terminar lo mínimo y poder ya enseñarlo.
+
+###Recomendación de contenido
+
+En esta semana es un artículo también. Es viejillo, pero me gusta mucho cómo
+comunica Sandi Metz. El artículo es [SOLID Design Principles - Dependency
+Injection](http://www.sandimetz.com/blog/2009/03/21/solid-design-principles).
+
+¡Sed felices esta semana!
+
