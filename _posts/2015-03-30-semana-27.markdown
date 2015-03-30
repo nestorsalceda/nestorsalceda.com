@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Semana 27"
+date: 2015-03-30 9:40
+category: retrospectiva
+---
+
+Esta semana me ha dado tiempo a cerrar cosas, y eso es una buena noticia.
+También han entrado cosas nuevas, que es otra buena noticia.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) seguimos avanzando en el deploy con
+  docker, y la verdad es que ya va viento en popa. Me tocó facilitar la
+  retrospectiva y disfruté bastante haciéndolo.
+
+* Con el tema de los puntos de acceso de Cisco, se ha quedado parado. Es una
+  lástima, que me hubiese haberlo dejado cerrado ya, pero no ha podido ser.
+
+* Con la parte de la lectura para niños, ya está cerrado. En cuanto me lleguen
+  los datos de facturación, envío la factura.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) hemos estado haciendo alguna cosa
+  del tema de los gimnasios.
+
+* Con [SenpaiDevs](http://senpaidevs.com) vinieron dos de los que molan [Daniel
+  Torres Burriel](http://www.torresburriel.com/), que nos puso las pilas con el tema
+  de usabilidad y objetivos  y [Javier Martinez](http://developing.frogtek.org/)
+  que nos hablo de git con esteroides.
+
+* Con la gente de Amex sigue el movimiento y pasé el presupuesto.
+
+* Con los pressrooms de Pedro del Hierro y Cortefiel ya tengo automatizada la
+  generación del reporte, así que esto se queda cerrado también.
+
+###Proyectos personales
+
+Aquí hubo bastante movimiento con el tema de los gimnasios. Estuvimos cambiando
+el tema para el backend y ya para un par de semanas después de semana santa,
+creo que puedo empezar a hacer demos.
+
+###Recomendación de contenido
+
+Esta semana, nada de nada :(
+
+¡Sed felices esta semana!
+
