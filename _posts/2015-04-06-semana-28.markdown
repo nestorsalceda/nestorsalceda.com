@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Semana 28"
+date: 2015-04-06 18:00
+category: retrospectiva
+---
+
+Semana de las cortitas. Después de 3 días de trabajo me marché al pueblo, a
+tocar el tambor, que es uno de los planes que llevo haciendo desde hace más de
+20 años. Y me encanta.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) estuvimos haciendo algún spike,
+  probando un trozo de tecnología nuevo y haciendo alguna funcionalidad para
+  cosas que ya están en producción.
+
+* Con el tema de los puntos de acceso de Cisco, se ha quedado parado. Otra vez.
+  Escribí para meter un poco de prisa, pero me temo que habrá que esperar a la
+  próxima ráfaga.
+
+* Con la parte de la lectura para niños, estoy esperando los datos de
+  facturación.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) no hicimos nada.
+
+* Con [SenpaiDevs](http://senpaidevs.com) tuvimos retrospectiva, y salieron
+  cosas nuevas y acordamos organizar el tiempo de otra manera.
+
+* Con la gente de Amex parece que la cosa va hacia adelante.
+
+* Me ha entrado un presupuesto para hacer un despliegue de una aplicación.
+
+###Proyectos personales
+
+Nada, 3 días de semana me dieron para poquito, y con ese aire de antes de las
+vacaciones, poco hice.
+
+###Recomendación de contenido
+
+Esta semana, nada de nada tampoco. Ya llevo 2, y creo que tengo que ponerle
+remedio.
+
+¡Sed felices esta semana!
+
