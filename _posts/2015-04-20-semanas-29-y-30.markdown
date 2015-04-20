@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Semanas 29 y 30"
+date: 2015-04-20 9:00
+category: retrospectiva
+---
+
+Un par de semanas a tope, tras la vuelta de semana santa. Con bastante
+movimiento de nuevas propuestas, por lo que ha habido que preparar presupuestos
+y hacer cosas un poco rápido.
+
+En la parte social, como el 5º Aniversario de Agile Aragón,
+en el cual facilité la retrospectiva. Asimismo, este fin de semanas fue el
+Open Space de Startups de Cachirulo Valley.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) vamos a toda mecha, siguen saliendo
+  nuevas funcionalidades y nos da tiempo a seguir mejorando nuestro proceso de
+  despliegue. Estoy encantado con lo que estamos haciendo con Docker.
+
+* Con el tema de los puntos de acceso de Cisco, está en el limbo. Supongo que
+  habrá que esperar hasta que lo vuelvan a probar. De todos modos, creo que
+  tengo el modo de hacer que aunque esto ocurra, duela poco.
+
+* Con la parte de la lectura para niños, ya está cerrado y cobrado.
+
+* Con [Nacho](https://twitter.com/Nachokyoku), entre sus prácticas y que me
+  entró un proyecto un poco urgente y tuve que tomar el jueves para poder
+  llevarlo a cabo, hemos trabajado poco.
+
+* Con [SenpaiDevs](http://senpaidevs.com) muy contento, que tenemos el proyecto
+  ya casi sacado. El Jueves estuve enseñando magia negra con Zsh y Vim. Aquí,
+  entramos ya en la fase final y estoy contento porque creo que en estos meses,
+  hemos logrado un grupo bastante cohesionado. Y me encanta ver que se ayudan
+  entre ellos, sin que haya necesidad de que nosotros empujemos; sinceramente, creo
+  que esa es la gran victoria.
+
+* Con la gente de Amex a tope! Estoy generando los datos en forma de XML para
+  que puedan consumirlos desde sus sistemas, automáticamente.
+
+* Me entró un presupuesto para el despliegue de una aplicación, con unas
+  circunstancias un poco complicadas; pero ya está todo casi funcionando y creo
+  que podré cerrar el proyecto muy pronto.
+
+* Tengo encima de la mesa una estimación para un proyecto para recubrir una
+  librería de C, que le tengo bastantes ganas también a ese proyecto.
+
+###Proyectos personales
+
+Aún he conseguido algo de tiempo para el tema de los gimnasios, y ya tengo una
+versión visible. Hace poquito, y no es ni mucho menos un MVP, pero creo que
+empiezo a ver la luz con este tema.
+
+###Recomendación de contenido
+
+Aquí he aprovechado un poco más el tiempo. Como el Jueves estuve hablando de Zsh
+y de Vim, pues quiero enseñar la presentación que les mostré:
+
+* [Why Z shell is cooler than your
+  shell?](http://www.slideshare.net/brendon_jag/why-zsh-is-cooler-than-your-shell)
+
+* Una [cheatsheet](http://imgur.com/YLInLlY) de Vim que me llamó mucho la
+  atención.
+
+Y como plato fuerte, vamos a por tests a lo loco. El artículo es viejunillo,
+pero de vez en cuando la gente de
+[deAprendices](https://twitter.com/deAprendices) saca tuits con contenido muy
+guay.
+
+* [Test data builders and object mother: another look](http://blog.codeleak.pl/2014/06/test-data-builders-and-object-mother.html)
+
+¡Disfrutad esta semana!
+
