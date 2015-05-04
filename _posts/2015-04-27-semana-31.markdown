@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Semana 31"
+date: 2015-04-27 9:00
+category: retrospectiva
+---
+
+Semana de las intensas, en Aragón fue festivo el 23, aunque no para mí. El
+martes fue mi 31 cumpleaños, pero no fue lo que yo había planeado para mi
+cumpleaños porque ingresaron a mi madre de urgencias, aunque afortunadamente, no
+parece nada grave.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) de vuelta al pair programming y a
+  escribir nuevas funcionalidades.
+
+* Con el tema de los puntos de acceso de Cisco, está parado. Lo voy a seguir
+  escribiendo semana tras semana, para que no se me "olvide".
+
+* Con [Nacho](https://twitter.com/Nachokyoku) no hicimos nada tampoco. He ido
+  muy apretado de tiempo esta semana.
+
+* Con [SenpaiDevs](http://senpaidevs.com) el martes no tenía mucho cuerpo para
+  ir a las clases, pero me pasé un ratito antes de cerrar y me encantó que me
+  compraron una tarta y nos animamos un rato.
+
+* Con la gente de Amex sigo con la generación del XML, que ya tengo en staging
+  una demo.
+
+* Ya tengo facturado el tema del despliegue de la aplicación, y este martes /
+  miércoles debería cobrarlo.
+
+* Tengo encima de la mesa el recubrimiento de la librería de C, que todavía no
+  he podido darle un bocado.
+
+###Proyectos personales
+
+Agua :(
+
+###Recomendación de contenido
+
+Del blog de Codurance, he leído un poquito por encima, y hay una serie de posts
+sobre patrones de diseño que tienen muy buena pinta.
+
+* [Parte 1](http://codurance.com/2015/04/13/design-patterns-in-the-21st-century-part-one/)
+* [Parte 2](http://codurance.com/2015/04/14/design-patterns-in-the-21st-century-part-two/)
+* [Parte 3](http://codurance.com/2015/04/15/design-patterns-in-the-21st-century-part-three/)
+* [Parte 4](http://codurance.com/2015/04/16/design-patterns-in-the-21st-century-part-four/)
+* [Parte 5](http://codurance.com/2015/04/17/design-patterns-in-the-21st-century-part-five/)
+
+¡Disfrutad la semana!
+

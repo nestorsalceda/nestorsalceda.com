@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Semana 32"
+date: 2015-05-4 9:30
+category: retrospectiva
+---
+
+Una semana con un puentecillo, que no pude aprovechar para muchas cosas, ya que
+sigue mi madre en el hospital. Aún así, muy contento ya que no es nada grave y
+creo que con un poco de suerte, ya la mandan hoy para casa.
+
+Así que dadas las circunstancias, de un día menos, pasar tiempo en el hospital,
+he tenido que comprimir para poder seguir sacando trabajo adelante. A veces
+toca. Y en cuanto pase esta racha, me pillaré un par de días de puente, porque
+sí :D
+
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) seguimos con el pair programming, y
+  feature tras feature, sin que la rueda pare de girar. Me encanta este ritmo.
+  Cuando tu proceso no te pone impedimentos, cuando el código no te frena, es
+  cuando puedes ir rápido. Es cuando haces las cosas bien cuando puedes ir
+  rápido.
+
+* Con el tema de los puntos de acceso de Cisco, agua. Esta semana preparo un
+  email.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) nanai, le voy pasando algún libro
+  para que vaya leyendo. Creo que ha sido el más perjudicado por mi falta de
+  tiempo, así que tendremos que recuperar con algún intensivo.
+
+* Con [SenpaiDevs](http://senpaidevs.com)  el martes me pasé después de ver a mi
+  madre, y vinieron [Guillermo](http://guillermolatorre.com) y
+  [Lizano](https://www.twitter.com/lizano) y estuvimos hablando de diseño y
+  maquetación.
+
+* Con la gente de Amex ya está la generación del XML lista para ser probada.
+
+* El despliegue de la aplicación de EC2 ya está cobrado. Tuve una llamada, para
+  redimensionar las máquinas. Pero estoy muy contento con esta gente, he
+  solucionado su problema, lo he hecho rápido, lo hemos cerrado rápido y lo he
+  cobrado pronto.
+
+* Tengo encima de la mesa el recubrimiento de la librería de C, que quiero darle
+  un arreón esta semana.
+
+###Proyectos personales
+
+Hay algo en [Bolt](http://github.com/nestorsalceda/bolt) que me ha cambiado.
+Creo que es la gema de [InfluxDB](http://influxdb.com) que ha cambiado el API y
+tengo que adaptarla.
+
+###Recomendación de contenido
+
+Esta semana, al hablar de diseño y fuentes quería marcar la importancia de la
+tipografía en el diseño web. Y hay un artículo de la gente de [VGS Systems](http://vgssystems.es) que me gusta.
+
+[La importancia de la tipografía en el diseño
+web](https://www.vgsystems.es/blog/diseno-web/la-importancia-de-la-tipografia-en-el-diseno-web-3/)
+
+¡Sed felices esta semana!
+
