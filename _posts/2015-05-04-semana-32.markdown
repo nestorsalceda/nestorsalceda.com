@@ -54,7 +54,7 @@ tengo que adaptarla.
 ###Recomendación de contenido
 
 Esta semana, al hablar de diseño y fuentes quería marcar la importancia de la
-tipografía en el diseño web. Y hay un artículo de la gente de [VGS Systems](http://vgssystems.es) que me gusta.
+tipografía en el diseño web. Y hay un artículo de la gente de [VGS Tecnologías Web](http://vgsystems.es) que me gusta.
 
 [La importancia de la tipografía en el diseño
 web](https://www.vgsystems.es/blog/diseno-web/la-importancia-de-la-tipografia-en-el-diseno-web-3/)
