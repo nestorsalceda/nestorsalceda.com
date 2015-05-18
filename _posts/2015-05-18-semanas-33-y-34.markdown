@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Semanas 33 y 34"
+date: 2015-05-18 9:30
+category: retrospectiva
+---
+
+Un par de semanas para tratar de coger el ritmo otra vez, pero aún he tenido
+algo de tiempo para estar con algún proyecto personal y alguna cosa nueva que
+viene.
+
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) sigue el ritmo normal, pairing con Go,
+  deploys a cascoporro y extraer algunos componentes comunes.
+
+* Con el tema de los puntos de acceso de Cisco, agua. Sí, otra vez. Menos mal
+  que hago estas retrospectivas que me ayudan a que no se olviden.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) sacamos la tarde de un viernes y
+  nos dedicamos a hacer un DSL para una aplicación que queremos utilizar en la
+  liga de amigos del futbolín.
+
+* Con [SenpaiDevs](http://senpaidevs.com) me preparé una charla para hablar
+  sobre DevOps, Vagrant, Ansible, Packer.io y Docker. Obtuve buen feedback, así
+  que prepararé un taller para un día de estos.
+
+* Con la gente de Amex estoy teniendo problemas con la gestión del XML. Supongo
+  que es lo normal cuando hay empresas más grandes de por medio.
+
+* A la parte de la librería de C con el wrapper, le he estado echando un ojo y
+  tengo que mandar alguna de las conclusiones que tengo.
+
+* He recibido una petición de presupuesto, pero voy bastante pillado de tiempo y
+  se me va un poco de lo que hago normalmente, así que voy a descartarlo.
+
+###Proyectos personales
+
+He arreglado el error de  [Bolt](http://github.com/nestorsalceda/bolt) con
+[InfluxDB](http://influxdb.com), pero tengo alguna hora sin meter datos. Y tengo
+sospechas con las zonas horarias.
+
+Tengo ya una versión presentable de la aplicación de las ligas del futbolín.
+Está en [Heroku](http://lafzaragoza.com/copa-laf-2015) y el código fuente está
+en [GitHub](https://github.com/nestorsalceda/league).
+
+###Recomendación de contenido
+
+Es un post bastante viejuno, pero creo que es una buena checklist de cosas que
+hacer al recibir un VPS nuevo.
+
+[My First 5 Minutoes On A Server; Or, Essential Security for Linux
+Servers](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
+
+Ahora, a automatizarlo con [Ansible](http://ansible.com)
