@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Semanas 33 y 34"
+date: 2015-05-18 9:30
+category: retrospectiva
+---
+
+Se me han pasado 2 semanas voladas, sin casi tener ni tiempo para hacer esta
+retrospectiva. Pero más vale un poquito tarde que nunca.
+
+Han sido semanas con nuevos proyectos, nuevas propuestas, presupuestos y otras
+locuras. También ha sido una semana de terminar, y de abrir cosas nuevas. Así
+que vamos al detalle.
+
+Nota para mi mismo: Empiezo a necesitar un puente largo, o alargar un fin de
+semanas y creo que va a venir de perilla el AOS del 2015 en Gijón.
+
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com), hemos estado haciendo algunos spikes,
+  integrando tecnología de terceros, pero ha habido tiempo para seguir con
+  nuestro flujo de valor y con sesiones de pairing a la vieja usanza (sí, las
+  echaba bastante de menos!).
+
+* Con el tema de los puntos de acceso de Cisco, agua. A ver si ahora que he
+  cerrado un poco alguna otra cosa, pues lo finiquito.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) poquita cosa. Creo que el es la
+  víctima de mi falta de tiempo :S
+
+* Con [SenpaiDevs](http://senpaidevs.com) dejamos cerrada la primera edición. Ha
+  sido una experiencia bastante molona, y creo que la repetiremos. Creo que
+  hemos sido capaces de motivar y de aconsejar a nuestros kohais. Ha merecido la
+  pena.
+
+* Con la gente de Amex estoy esperando resultados de las pruebas del XML.
+
+* A la parte de la librería de C con el wrapper, agua.
+
+* He pasado el presupuesto para una aplicación para Prosegur, y me lo han
+  aceptado, así que cojonudo. He cambiado el modo de estimar para este proyecto,
+  así que tengo que ver el resultado que me da.
+
+* Me aceptaron otro presupuesto para un día de consultoría en Madrid, se trata
+  de echar un ojo a la infraestructura que hay desplegada. Este proyecto tiene
+  muy muy buena pinta, y todavía no voy a dar detalles, pero es con gente con la
+  que ya he trabajado anteriormente y alguno otro con el que me gustaría trabajar.
+
+###Proyectos personales
+
+He vuelto a retomar la aplicación del tema de los gimnasios, y me gustaría
+preparar una demo para esta semana.
+
+Con [SenpaiDevs](http://senpaidevs.com) hemos decidido [abrir nuestro Dojo los
+viernes](https://gist.github.com/nestorsalceda/2b2c22f55aeef5325d8f) y el 29 fue
+el primer día. [Sentamos las bases](http://senpaidevs.com/fridaydojo) y me marché i
+muy muy satisfecho con el resultado.
+
+###Recomendación de contenido
+
+Para esta semana, tengo 2:
+
+* [Design Tips para Desarolladores](https://www.youtube.com/watch?v=F215TBpEaUI)
+* [Does TDD lead to good design?](http://codurance.com/2015/05/12/does-tdd-lead-to-good-design/)
+
+La primera me recordó bastante al libro de David Kadavy de [Design for
+Hackers](http://www.amazon.es/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/ref=sr_1_1?ie=UTF8&qid=1433141836&sr=8-1&keywords=design+for+hackers)
+y la segunda me parece una reflexión muy interesante sobre TDD y diseño.
+
+¡Disfrutad!
