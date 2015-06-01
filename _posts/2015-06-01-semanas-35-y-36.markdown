@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Semanas 33 y 34"
-date: 2015-05-18 9:30
+title: "Semanas 35 y 36"
+date: 2015-06-01 9:00
 category: retrospectiva
 ---
 
