@@ -45,6 +45,11 @@ Tengo ya una versión presentable de la aplicación de las ligas del futbolín.
 Está en [Heroku](http://lafzaragoza.com/copa-laf-2015) y el código fuente está
 en [GitHub](https://github.com/nestorsalceda/league).
 
+Asistí al curso de [Teresa Oliver](http://skok.es) sobre inceptions. La verdad
+es que salí encantado del curso y creo que es una herramienta que me va a ayudar
+a abrir los proyectos y a poder cerrarlos, que creo que últimamente me cuesta un
+poco más.
+
 ###Recomendación de contenido
 
 Es un post bastante viejuno, pero creo que es una buena checklist de cosas que
