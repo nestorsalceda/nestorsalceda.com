@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Semanas 37 y 38"
+date: 2015-06-14 19:00
+category: retrospectiva
+---
+
+Otra vez lo he vuelto a hacer. Otras 2 semanas que se pasan voladas. Y porque he
+decidido sentarme esta tarde de domingo a hacer la retrospectiva, que mañana voy
+otra vez a Madrid y se me volverá a pasar.
+
+Afortunadamente he cerrado bastantes temas que tenía abiertos, y me han llegado
+cosas nuevas para abrir el melón, pero los días que voy estar en [AOS 2015 en
+Gijón](http://aos2k15.agile-spain.org/) con la avanzadilla Almogávar es
+absolutamente necesaria para desconectar y descansar un poquito.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com), aquí todo sigue normal y estable. La
+  semana pasada estuve el lunes y el martes con ellos en Madrid, que ya lo
+  echaba de menos.
+
+* Con el tema de los puntos de acceso de Cisco, he dado un poco la brasa y me
+  falta una llamadica telefónica y mandar la factura.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) he decidido que mientras esté el,
+  no voy a coger el teclado. Estuvimos haciendo una refactorización y le estuve
+  enseñando un poco el tema de dobles de test.
+
+* Con la gente de Amex estoy un poco apretado. Ha habido una ronda de corrección
+  de formatos y espero dejarlo facturado la semana que viene.
+
+* A la parte de la librería de C con el wrapper, no he sabido nada del tema.
+
+* Con lo de prosegur, tengo que organizar las fechas y es probable que busque un
+  poco de ayuda con el tema de maquetación, que últimamente voy teniendo ganas
+  de trabajar con más personas.
+
+* Mañana me voy a Madrid para hacer una consultoría sobre infraestructura en un
+  despliegue existente. Tengo bastantes ganas de esto.
+
+* [Javi Rubio](http://javirubio.net) me ha pasado una posible consultoría de
+  Docker, y estoy preparando el documento.
+
+* El viernes tuve una llamada de un cliente, y me ha pasado algunas
+  instrucciones para un nuevo proyecto. Me gusta muchísimo cuando un cliente que
+  ya he tenido quiere repetir. Es un buen síntoma de que te están apreciando
+  como profesional.
+
+###Proyectos personales
+
+No ha habido demo con el tema de los gimnasios, pero he avanzado. Y cada vez
+tiene una mejor pinta. Parece que Septiembre puede ser una buena fecha para
+empezar a usarlo en algunos conejillos de indias. Veremos a ver cómo sale :)
+
+Con [SenpaiDevs](http://senpaidevs.com) abrimos el Dojo el viernes pasado, y
+empieza a ser patente el hambre de código de verdad. Así que para el próximo voy
+a pedir ayuda con Mamba y darle un achuchón más.
+
+###Recomendación de contenido
+
+Para esta semana, me marcho a la tierra. [Mi dominio es mío y no me lo
+toques](https://vimeo.com/69157481), me encanta Javier Acero. He tenido la
+suerte de trabajar con él, aunque poquito tiempo, y me encanta el flow que
+tiene.
+
+¡No olvidéis que la base de datos es un detalle de implementación!!
