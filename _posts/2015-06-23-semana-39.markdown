@@ -1,0 +1,135 @@
+---
+layout: post
+title: "Semana 39"
+date: 2015-06-23 12:30
+category: retrospectiva
+---
+
+Esta ha sido la semana después del [AOS 2015](http://aos2k15.agile-spain.org) en
+Gijón, por lo que he tenido sólo 2 días, y uno de ellos estuve en Madrid.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com), me tocó hacer de argentino y facilitar
+  la retrospectiva.
+
+* Con el tema de los puntos de acceso de Cisco, ya lo tengo facturado.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) agua. El jueves ya estaba en
+  Gijón.
+
+* Con la gente de Amex ha habido otra ronda de feedback. A ver si es la
+  definitiva.
+
+* Con lo de prosegur, tengo alguna idea nueva y creo que puede servir para
+  apaciguar el caos con el que he vuelto de Gijón. No obstante, hay que empezar
+  a organizar.
+
+* La consultoría en Madrid salió bastante bien. Eran bastante conscientes de los
+  problemas que tenían y de la naturaleza de su problema, por lo que estuvimos
+  poniendo nombres a las herramientas e hicimos una pequeña introducción para
+  que no les pillase de nuevas. Hace 2 días me informaron de que una parte ya la
+  tienen automatizada, lo cual me llena de alegría.
+
+* La consultoría de Docker que me pasó [Javi Rubio](http://javirubio.net) ya
+  está siendo estudiada.
+
+* Tengo un proyecto incipiente sobre el que he pedido un poco más de
+  documentación, a ver qué más saco.
+
+###Proyectos personales
+
+Nada de nada.
+
+###Recomendación de contenido
+
+La de esta semana es [Curing Agile Hangover with Craftmanship](https://vimeo.com/44243846).
+
+Pese a que parece que hay de nuevo algo de folclore (sí, otra maldita vez) con el tema
+del craftmanship, si lo apartamos, hay algunas ideas y críticas bastante
+interesantes.
+
+
+### AOS2015
+
+Nos fuimos el miércoles a mediodía, con tranquilidad y con ganas de disfrutar y
+cargar las pilas. Y por lo menos yo, lo he hecho.
+
+Salimos a cenar el miércoles un chuletón de esos ricos y nos fuimos a dar una
+vuelta por la zona de bares. Al día siguiente, aprovechamos para disfrazarnos de
+surferos de secano.
+
+Aún retumba en mis oídos eso de:
+
+> Jodo! Aquí hay más agua que en Mequinenza eh!
+
+Y ya el viernes empezó el baile. Llegamos un poco tarde al tablón, pero me gustó
+que saliese una de eXtreme Programming, últimamente tengo la sensación de resaca
+ágil, y me alegró volver la vista atrás. Por la tarde, hubo una muestra de
+TDD/BDD/ATDD con bastantes collejas y un dojo en el que lo pasamos bien.
+
+El sábado, estuvimos hablando de [SenpaiDevs](http://senpaidevs.com) con la
+gente de [Devscola](http://www.devscola.org) y dando algunos tips, para los que
+quisieran iniciar algo parecido. Después, hablamos del éxito en agile, pero
+se acabó hablando de principios y prácticas y me gustó bastante el [gráfico que
+pintó Jorge Uriarte](https://twitter.com/jorgeuriarte/status/611852974927777792), pero me
+acabé llevando una sensación de proselitismo. Me pareció distinguir una línea de
+pensamiento horrenda (y falsa!):
+
+* Agile para todo: las metodologías ágiles funcionan en algunos contextos, no en todos.
+  Pese a que hay principios y valores interesantes y extrapolables.
+
+* Se asocia metodologías ágiles con calidad: No es calidad, es gestión. La
+  calidad viene de otro lado y una mala gestión te la va a destrozar.
+
+* Si mi equipo está cohesionado, saldrá un producto estupendo: Lamento decir que
+  no. Si tienes un producto que aporta valor y cuentas con buenos profesionales
+  para llevarlo a cabo, están motivados y cohesionados como equipo, es
+  bastante probable que salga producto cojonudo. Si no tienes buenos profesionales,
+  pueden estar cohesionados como equipo, pero obtendrás zumo de mierda. Así de crudo.
+
+* Si sigo los principios ágiles, mi proyecto será ético: Aquí fruncí el ceño, pero no
+  quise discutir. Supongo que la trata de blancas, el tráfico de drogas o la venta de armas si se
+  hacen con los principios ágiles son buenos para el desarrollo de la humanidad.
+
+Después estuve en la de noprojects, que no me gustó nada, pero me quedé porque
+quería cargar el teléfono móvil. A veces me da la sensación de ser el frente
+popular de judea peleando con el frente judaico popular.
+
+Tras comer, fui a ver a [Jorge Uriarte](https://www.twitter.com/jorgeuriarte)
+hablando sobre desescalar. Y me encantó. Me pareció
+[Toyota](https://en.wikipedia.org/wiki/The_Toyota_Way) en estado puro. Reducir y
+enfocar. No hacer más, sino mejor. Eliminar basura. Me encaja mucho cuando pienso
+que haces las cosas rápido, cuando vas ligero, cuando no generas basura es cuando
+haces las cosas bien, es cuando puedes ir rápido. Me quedo con 2 momentos:
+
+* Estructuras empresariales tan grandes, que añaden más trabajo para poder
+  alimentarse y dar de comer a semejante estructura. No te esfuerzas en acabar o
+  en ser sincero con tu cliente y decirle que hay cosas que pide, que no
+  va a necesitar ahora, o igual ni en 6 meses. Vas a conseguir más cosas para
+  hacer para poder tener ocupada a tu gente.
+
+* El lado oscuro del crecimiento: contratas a más gente y así puedes hacer más
+  cosas. No se trata de hacer más cosas, se trata de añadir más valor, de
+  mantener el foco y no distraerse en mierdas organizativas, estructurales o de
+  cualquier otra naturaleza, se trata de ser sincero y ayudar a quien te viene
+  a pedir ayuda con un proyecto.
+
+Y finalmente, hablamos de scrot otra vez. Me quedé sorprendido de que saliese, y
+creo que en condiciones normales, no tenía que haber salido. Estuvimos a punto
+de darla por concluida a los 10 minutos e irnos a ver la de [Xavi
+Gost](https://twitter.com/XaV1uzz) pero pasamos un rato de risas troleando un
+poco.
+
+Me gustó que cuando había intentos de vender "mi libro", a lo Paco Humbral, hubo
+bastante collejeo, a veces sales de alguna conversación con sensación de
+contrata mi servicios y tu equipo irá mejor, entregarás a tiempo y volaremos en
+unicornios, pero esta vez se ha atajado pronto.
+
+No me gustó que se llamase ponente a los facilitadores de las charlas y creo que
+con la gente nueva que había, igual había que haberse asegurado más de la
+dinámica de un open space.
+
+Me han gustado también las [notas de Francho](https://spines.me/p/francho/notas-sueltas-del-number-aos2k15), por si las queréis ver.
+
+Y con eso está el resumen del AOS2015, ¡disfrutad de la semana!
