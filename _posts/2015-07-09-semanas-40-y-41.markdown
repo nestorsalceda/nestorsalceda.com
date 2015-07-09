@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Semanas 40 y 41"
+date: 2015-07-09 9:30
+category: retrospectiva
+---
+
+Otra vez 2 semanas, la verdad es que voy haciendo cosas a muy buen ritmo y a
+veces me abstraigo de escribir los resúmenes. Pero considero valiosa esta
+retrospectiva.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com), ya estamos con el horario de verano.
+  Aun así, suelo aprovechar las tardes para trabajar en alguna idea menos
+  prioritaria y ver qué sale.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) nos volvimos a juntar e hicimos la
+  kata de la búsqueda binaria. Traté de introducirle un poco a
+  [Go](http://golang.org) y hacer esa búsqueda en paralelo, pero tiene muy poco
+  sentido y el resultado de la kata fue un engendro.
+
+* Con la gente de Amex poco más se.
+
+* Con lo de prosegur, lo tengo ya en el pipeline. A ver si voy dando la brasa.
+
+* Mandé una propuesta para un nuevo proyecto y se han puesto en contacto conmigo
+  para unos temas de integración continua, que tengo que sacar más detalles.
+
+* Con un par de colegas, estamos gestando alguna idea y es probable que acabemos
+  dándole forma, así que #stayTuned.
+
+###Proyectos personales
+
+Lo bueno del verano es que puedo aprovechar a hacer más cambios y probar más
+cosas.
+
+* Con [bolt](http://github.com/nestorsalceda/bolt) le cambié la librería de
+  dibujado de gráficas, de Morris.js a chartist.js que hace el tema responsive
+  un poco mejor. No me gustó como se manejaban los tooltips, así que a ver qué
+  pasa con Chart.js en el futuro, que está la 2.0 en alpha.
+
+* He aprovechado para hacer un poco de tool sharpening y he cambiado a
+  [vim-plug](http://github.com/junegunn/vim-plug). Últimamente notaba mi Vim
+  pesado, así que he eliminado plugins que no utilizaba y plug me permite hacer
+  carga perezosa de plugins, por lo que el tiempo de arranque mejora. He vuelto
+  un poco a mi radicalidad y he desactivado todo lo relacionado con el ratón en
+  la consola, que últimamente me parece que me había relajado con este tema.
+
+###Recomendación de contenido
+
+Esta semana viene con temas nuevos, Martin Fowler ha escrito un par de artículos
+sobre microservicios:
+
+* [Microservice Trade Offs](http://martinfowler.com/articles/microservice-trade-offs.html)
+* [Microservices Resource Guide](http://martinfowler.com/microservices/)
+
+Fijaos que este modo de desarrollo esta bastante nuevo, pues ya he visto por ahí
+zumo de mierda distribuido. Así que con cuidado. No hay metodología, tecnología,
+o técnica que te evite el pensar sobre lo que estás haciendo.
+
+Me gusta como resume las cosas este hombre, al igual que últimamente veo a
+[Guillermo Latorre](https://twitter.com/Superwillyfoc) tuitear cosas con movidas
+de sketchnotes, que tienen una pinta estupenda.
+
+¡Disfrutad!
