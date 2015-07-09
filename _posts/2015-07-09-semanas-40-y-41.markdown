@@ -47,6 +47,10 @@ cosas.
   un poco a mi radicalidad y he desactivado todo lo relacionado con el ratón en
   la consola, que últimamente me parece que me había relajado con este tema.
 
+* El viernes pasado, estuvo [Iván](http://twitter.com/iloire) hablando sobre la
+  cultura en [Atlassian](http://atlassian.com) y vino bastante gente al [Friday
+  Dojo](https://gist.github.com/danilat/4aa06b7b97f36bf01cfe).
+
 ###Recomendación de contenido
 
 Esta semana viene con temas nuevos, Martin Fowler ha escrito un par de artículos
