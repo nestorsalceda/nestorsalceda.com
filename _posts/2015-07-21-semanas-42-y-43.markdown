@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Semanas 42 y 43"
+date: 2015-07-21 10:10
+category: retrospectiva
+---
+
+Esta vez no son dos semanas, pero casi, ya que últimamente los lunes los tengo
+bastante cargaditos.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) las cosas siguen el ritmo normal y
+  sostenible. Me he adaptado bien al horario de verano y sigo aprovechando las
+  tardes en lanzar alguna idea loca.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) estuvimos un poco con Sinatra y
+  revisando una pull request que me envió para los detalles de los equipos en la
+  liga. Como el miércoles pasado ganamos, salimos a celebrarlo y el jueves nos
+  despertamos tarde y no nos juntamos. Tengo que trabajar un poco más el tema de
+  no añadir más funcionalidad por que sí, y hablarle del coste basal de las
+  aplicaciones.
+
+* Con la gente de Amex, tras 2 semanas, he recibido feedback. Ya lo he corregido
+  y ayer se hicieron pruebas nuevas. A ver qué pasa en las próximas 2 semanas.
+
+* Con lo de prosegur, no he dado la brasa y tengo que hacerlo, así que hoy
+  mandaré un globo sonda.
+
+* Con el proyecto con temas de integración continua, tengo que retocar el ámbito
+  de la propuesta, que parece que el presupuesto se les iba un poco.
+
+###Proyectos personales
+
+El viernes pasado [Alberto Gualis](http://www.twitter.com/gualison) se encargó de [facilitar el Friday
+Dojo](https://gist.github.com/agualis/aedb530b294ae2344584), y estuvimos hablando de los estilos de TDD, clásico y mockista.
+
+La verdad es que me tuve que ir un poco antes, que parece que llegué tarde,
+troleé y me marché. Todo esto en 15 minutos, que luego tenía un compromiso.
+Salió un tema muy entretenido y creo que fue útil para todos los que asistieron.
+
+Me gusta también que haya más personas que se animen a facilitar estas sesiones
+y que no seamos siempre las mismas caras, que es uno de los objetivos que
+teníamos en el Friday Dojo.
+
+###Recomendación de contenido
+
+Para esta semana, vamos a tirar de casa. Ya que Alberto se lo trabajó muy bien:
+
+* [Presentación TDD: Classical VS
+  Mockist](https://docs.google.com/presentation/d/1lLWPA6KkxSeu-tixN6nuZYGNJnv3vvnTX-4JZNfZ15E/edit#slide=id.p)
+* [BankKata clásica](https://github.com/agualis/classic_bankkata)
+* [BankKata mockista](https://github.com/agualis/mockist_bankkata)
+
+Y voy a aprovechar para dejar las [conclusiones de Sandro
+Mancuso](http://codurance.com/2015/05/12/does-tdd-lead-to-good-design/)
+
+¡Disfrutad!
