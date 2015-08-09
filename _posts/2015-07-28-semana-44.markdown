@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Semana 44"
+date: 2015-07-28 19:20
+category: retrospectiva
+---
+
+Venga, esta semana ha sido ya un poco más apacible. Se nota el verano y me gusta
+mucho, porque consigo un poquito de tiempo para mis proyectos y algo de
+tool-sharpening.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) estoy contento, he retomado
+  [Go](http://golang.org), que hacía ya días que no escribía código de este
+  tipo. Cada día me llama más la atención tanto [Go](http://golang.org) como
+  [Rust](http://rust-lang.org), son de más bajo nivel que lo que hago
+  normalmente, pero para algunas cosas concretas me parecen brutales.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) me trajo un par de dudas con
+  patrones de diseño, y aprovechamos para preparar una kata para el #FridayDojo.
+
+* Con la gente de Amex, no he sabido nada más. A ver cuando llegue el feedback.
+
+* Con lo de prosegur, se aparca hasta septiembre.
+
+* Con el proyecto con temas de integración continua, hemos retocado el ámbito y
+  ya estoy manos a la obra. Hacía bastante tiempo que no tocaba Chef, pero me
+  sigo sintiendo bastante cómodo.
+
+###Proyectos personales
+
+Han sido días de experimentar. Por una parte, con el tema de los gimnasios ya he
+migrado los agregados a jsonb, con PostgreSQL. En la siguiente sección estará el
+artículo relacionado y lo comentaré un poquito más.
+
+Por otra parte, he descubierto 2 plugins de vim:
+
+* [vim-test](https://github.com/janko-m/vim-test)
+* [vim-dispatch](https://github.com/tpope/vim-dispatch)
+
+Últimamente estoy un poco preocupado con los cambios de contexto, incluso dentro
+de tmux, por lo que estoy intentando minimizarlos. Al utilizar varios
+lenguajes/entornos en mi día a día, me viene muy bien poder ejecutar los tests
+siempre con la misma combinación de teclado, es aquí donde está vim-test.  Y
+me viene mejor aún si no tengo que salirme del editor, y aquí es donde juega
+vim-dispatch, haciéndolo en segundo plano y mostrándome la ventana de QuickFix
+si algo falla.
+
+###Recomendación de contenido
+
+Para esta semana, vamos al hardcore: [The Ideal Domain-Driven Design Aggregate Store](https://vaughnvernon.co/?p=942)
+
+No me gusta nada cuando por defecto te acoplas a la base de datos a la hora de
+diseñar tu aplicación. Tu aplicación no es tu base de datos, al igual que tu
+aplicación no es el mecanismo de entrega web.
+
+No significa que si tiras a por un framework MVC de todo en uno esté mal, ni
+muchísimo menos. Ese framework es una arquitectura en lata y hay casos en los que
+te ayudará. Pero tienes que ser consciente de lo que estás comprando y a lo
+que te estás atando.
+
+Cuanto más peso lleves, más lento te moverás. ¿Y realmente lo vas a necesitar?
+
+Y vamos con una bola extra: [Architecture the Lost
+Years](https://www.youtube.com/watch?v=WpkDN78P884)
+
+
+¡Disfrutad!
