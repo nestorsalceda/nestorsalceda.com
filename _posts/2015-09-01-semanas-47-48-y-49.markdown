@@ -1,0 +1,73 @@
+---
+layout: post
+title: "Semanas 47, 48 y 49"
+date: 2015-09-01 13:20
+category: retrospectiva
+---
+
+Uffff! Se han pasado tres semanas. Con un poco de trampa, porque he estado de
+vacaciones en Málaga durante una de ellas.
+
+En el tema laboral, que también es importante, hay bastante movimiento. Cuando
+empecé como autónomo siempre había pensado que agosto sería uno de esos meses
+flojicos. Pero como tantas otras predicciones que he intentado hacer, es
+errónea; así que he aprendido a adaptarme continuamente a los cambios.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) días de limpiar código viejuno y de
+  sustituir unas piezas por otras. En estos momentos es cuando se vé si el
+  software está hecho para que se puedan cambiar unas piezas por otras, incluso
+  entre lenguajes!, y no están siendo cambios para nada dolorosos.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) nos hemos centrado en el
+  desarrollo de la aplicación para la gestión de gimnasios. Que estaría bien
+  empezar su utilización durante este mes de septiembre, en algunos sitios
+  piloto.
+
+* Con la gente de Amex, pues no he tenido noticias. Así que supongo que estará
+  para facturar, me gustaría dejarlo hecho esta semana ya.
+
+* Con el proyecto de integración continua se quedó cerrado y pagado antes de ir
+  de vacaciones. Ha sido un puto placer trabajar con la gente de
+  [CartoDB](http://cartodb.com).
+
+* Se han puesto en contacto conmigo, para un tema de arquitectura y
+  automatización de sistemas, que tiene una pinta estupendísima. Espero acabar
+  la propuesta esta tarde.
+
+* Se me ha reactivado un proyecto con Raspberry y algunos sensores. Hoy he
+  mandado el correo para encargar el hardware y espero poder hacer una
+  valoración no tardando mucho.
+
+* A mediados de mes, tengo que echar a andar el proyecto de Prosegur.
+
+Sí, como bien se puede observar, estoy hasta arriba de trabajo.
+
+###Proyectos personales
+
+Poca cosa, el tema de los gimnasios lo voy a mover un poco más con Nacho y ver
+si podemos salir para este mes, o para el siguiente. Sé que no está completo,
+pero quiero probar unas cuantas cosas y quiero algo más de información.
+
+También, estuve el jueves con [Carlos](http://twitter.com/_carletex_) que le
+interesa que sea su mentor. Tengo que ver cómo lo gestiono, que no tengo ni idea
+de cómo enfocarlo.
+
+Tengo que mandar una propuesta para la Craftmanship de Barcelona, a ver si a la
+gente le mola y la puedo desarrollar un poco más.
+
+###Recomendación de contenido
+
+Para esta semana, [una que me han
+recomendado](https://twitter.com/eferro/status/635914441087913984). Espero poder
+verla prontito.
+
+["Microservices: Software that Fits in Your
+Head"](http://www.infoq.com/presentations/microservices-replaceability-consistency) de Dan North.
+
+Últimamente hay mucha gente que habla de esto, y supongo que lo seguiremos
+oyendo en los próximos meses. Me gustaría ver cuan pronto se sobrecarga el
+término y todo el mundo hace microservicios ...
+
+¡Disfrutad!
