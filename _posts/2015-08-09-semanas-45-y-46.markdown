@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Semanas 45 y 46"
+date: 2015-08-10 9:00
+category: retrospectiva
+---
+
+Dos semanas un poco cargaditas con un proyecto que me entró y que debería
+terminar entre hoy y mañana. Y ya preparando las vacaciones, que tengo bastantes
+ganas de una semanita de playa y de relajación.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) una semana completita, temas de docker,
+  una máquina que se nos subía un poquito de carga y sacar funcionalidades
+  nuevas.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) estuvimos hablando de Postgres con
+  la extensión de json y de chef.
+
+* Con la gente de Amex parece que la cosa va hacia adelante. Me llegó feedback
+  de unos campos vacíos, pero que estaban mal rellenos en el formulario de
+  origen. Así que, esperando.
+
+* Con el proyecto de integración continua, ya lo tengo automatizado. Me faltarán
+  las pruebas definitivas y escribir un poco de documentación, que he tenido que
+  hacer un workaround por un bug de [jenkins con
+  SSH](https://issues.jenkins-ci.org/browse/JENKINS-26379). Pero yo creo que
+  entre hoy y mañana se queda ya cerrado.
+
+###Proyectos personales
+
+Poca movida aquí, para el tema de los gimnasios he estado registrando pagos
+y poco más. La verdad es que el proyecto de la integración continua se me ha
+llevado el tiempo, pero como bien digo, lo terminaré prontito.
+
+El viernes 31 facilité la [4ª sesión del Friday Dojo](https://gist.github.com/nestorsalceda/de42c59ef06d3a27c1b1) y
+estuvimos hablando de patrones y de refactorizar a patrones. Hablamos de
+decorator, builder y factory.
+
+###Recomendación de contenido
+
+Para esta semana son una serie de posts sobre testing: [Getting Testy:
+Redux](http://randycoulman.com//blog/2015/08/04/getting-testy-redux/)
+
+La verdad es que están escritos de un modo bastante conciso y toca bastantes
+palos.
+
+¡Disfrutad!
