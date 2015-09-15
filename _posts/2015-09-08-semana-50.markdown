@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Semana 50"
+date: 2015-09-08 16:30
+category: retrospectiva
+---
+
+Ya se va notando el despertar tras las vacaciones y empieza una de mis épocas
+*favoritas* del año. Tras la ruptura de ritmo con el verano, se retoman
+actividades con muchísimas ganas: Aikido, ligas de futbolín, nuevos planes en el
+horizonte, conferencias ...
+
+Pero no viene solo, también es uno de los momentos de pico de trabajo. Ese
+momento en el que hay que terminar cosas hasta final de año, o esa conversación
+de "estuve en verano con este y me dijo de hacer ..."
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) la cosa sigue adelante, y con cambios
+  grandes. Hoy, [ha tuiteado Eduardo
+  Ferro](https://twitter.com/eferro/status/641224965958803456) que llevamos 1150
+  contenedores arriba, que se dice pronto. Creo que para mediados o final de
+  mes, me pasaré a verles, que ya tengo ganas.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) parece que la combinación de los
+  gimnasios es lo que más nos está motivando. A mí, porque me da una mañana para
+  trabajar con el y es un tiempo que hay que aprovechar muy bien para entregar
+  valor. Y a él, porque le mola. Tengo que plantearme hacer una retrospectiva y
+  ver si seguimos este camino, pero me gustaría para este año que sea capaz de
+  trabajar de forma autónoma a mí.
+
+* Con la gente de Amex, ya he facturado, pero ha llegado un último correo de
+  feedback. Un poco desincronizado, la verdad.
+
+* El viernes estuve en una reunión en remoto, para el tema de automatización de
+  sistemas y tiene una pinta estupenda. He tenido que pedir un par de
+  recomendaciones y he pedido la mano a un colega; así que a ver cómo termina
+  todo, que me da buena espina.
+
+* Tengo que escribir para el proyecto de la Raspberry a ver cómo va el tema del
+  material que le encargué.
+
+* Esta semana le echaré un tiento al proyecto de Prosegur, que espero que no se
+  haya caído.
+
+###Proyectos personales
+
+Con el tema de los gimnasios, he avanzado bastante y me gustaría que, aunque
+está muy primitivo, montarlo ya en producción en el primer gimnasio y empezar a
+realimentarlo. Creo que septiembre es muy ambicioso, con toda la vuelta al cole,
+pero noviembre puede ser un buen mes para trackearlo y empezar como un MVP. Me
+da miedo el perder momento, pero la fortuna sonríe a los valientes.
+
+Tengo pendiente lo de Carlos también.
+
+Y escribí una propuesta para la Craftmanship de Barcelona. Todavía no me queda
+muy claro el formato, pero quiero contar las tripas de
+[mamba](http://nestorsalceda.github.io/mamba/). Sé que no es muy frecuente el
+tener que hacer una herramienta para hacer TDD/BDD, pero creo que es una
+experiencia interesante.
+
+###Recomendación de contenido
+
+Esta semana, tengo a Eduardo Ferro a todo trapo. Hizo un pequeño [análisis sobre
+el coste basal del
+software](http://www.eferro.net/2015/09/coste-basal-del-software-vs-capacidad.html).
+
+Muchas veces se nos olvida este coste, que es el coste de la existencia de una
+funcionalidad, ya no tanto a arreglar errores o modificaciones, sino por su mera
+existencia.
+
+¡Disfrutad de la vuelta!
