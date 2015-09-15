@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Semana 51"
+date: 2015-09-15 16:30
+category: retrospectiva
+---
+
+Esta semana no ha sido tan fuertota como esperaba, pero sin embargo ha sido
+bastante fructífera, ya que he cerrado un proyecto que tenía muchas ganas ya
+que voy a hacer cosas un poco diferentes, no tanto en el qué, sino en el cómo.
+De este modo, empiezo a socializar un poco con otros profesionales.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) ha habido buen ritmo de deploy de
+  funcionalidades nuevas y arreglos con algunas imágenes de Docker. También ha
+  sido bastante instructivo el tema de arreglar algunos procesos zombies que nos
+  dejaba Jenkins con Docker.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) hemos repetido la fórmula de
+  seguir con los gimnasios. Nos cundió la mañana y creo que para Octubre hay un
+  MVP (no para Noviembre como dije la semana pasada!).
+
+* Con la gente de Amex, arreglé lo que pasó, pero ahora hay cosas nuevas. Y la
+  movida es que tendré que reabrirlo otra vez, espero que durante esta semana y
+  poco más.
+
+* Con la parte de automatización de sistemas, empezamos el día 21. Este es el
+  proyecto que hemos cerrado. Aunque en términos económicos esperaba otra cosa,
+  hemos llegado a un acuerdo razonable. Y la novedad para este proyecto es que
+  voy a trabajar con otra persona de mi confianza, con [Javi
+  Rubio](http://www.javirubio.net/), lo cual es más divertido que hacerlo solo.
+
+* Tengo que pinguear el proyecto de la Raspberry.
+
+* Efectivamente, se cayó el proyecto de Prosegur :(
+
+###Proyectos personales
+
+Pues aquí hay varias cosas. Con el tema de los gimnasios, va hacia adelante. Con
+buen ritmo, voy a montar una máquina propia ya para empezar a implantarlo en
+pruebas en un gimnasio.
+
+Sigo con lo de Carlos pendiente también.
+
+Y finalmente, he estado trasteando con
+[ferret](https://github.com/wincent/ferret). Antes utilizaba
+[ag.vim](https://github.com/rking/ag.vim), pero me gusta la capacidad de este
+plugin para hacer un buscar y reemplazar.
+
+###Recomendación de contenido
+
+Para esta semana, he estado leyendo sobre *Feature Toggles* y he encontrado un
+artículo de los de pensar un poco.
+
+[Feature Toggles are one of the worst kinds of Technical
+Debt](http://swreflections.blogspot.ie/2014/08/feature-toggles-are-one-of-worst-kinds.html)
+
+¡Disfrutad de la semana!
