@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Semana 52"
+date: 2015-09-23 11:40
+category: retrospectiva
+---
+
+Una semana con nubes y claros. Ha habido un proyecto que finalmente se ha caído,
+pero ha entrado otro, así que uno por otro. Son cosas que pasan. No obstante, este
+viernes me voy a Burdeos y volveré el lunes, así, cogiendo un puentecillo de los
+de porque si.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) hemos seguido profundizando en el tema
+  de Docker para los despliegues, y hay alguna cosa que va chirriando, pero que
+  vamos arreglando. Este ritmo está bastante bien, se arreglan las cosas cuando
+  pican, pero no se especula con el el fallo. Esto me gusta mucho. Mañana voy a
+  Madrid a hacer una visita.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) estuvimos haciendo la aplicación
+  multi-tenant. Me gusta mucho que vamos sacando funcionalidad con el timebox de
+  una mañana. Somos capaces de abrir y cerrar un tema en 4 horas.
+
+* Con la gente de Amex, cambios y vueltas atrás de los nuevos. Han entrado unas
+  cuantas cosas nuevas y he pasado presupuesto, a ver qué pasa.
+
+* Con la parte de automatización de sistemas, este es el que se ha caído.
+  Tengo que ver si es caída terminal o es un problema de agenda o económico.
+
+* Con el tema de la Raspberry, ya tengo el hardware y tengo los dispositivos
+  funcionando. Ahora toca ver qué es lo que queremos hacer con todo eso.
+
+###Proyectos personales
+
+Otra semana que se me ha pasado lo de Carlos, pero tengo varios frentes abiertos
+y los tengo que cerrar antes de empezar más cosas nuevas.
+
+Para el tema de los gimnasios, ya me molaría pillar una máquina, dominio y
+certificado y empezar a automatizar el aprovisionamiento. Así ya puedo sacarlo
+de Heroku.
+
+Y finalmente, tengo que terminar de darle forma a la charla de la Barcelona
+Software Craftmanship. Que me gustaría enseñar las tripas de
+[mamba](http://github.com/nestorsalceda/mamba) y algunas decisiones de diseño
+que hay que tomar.
+
+###Recomendación de contenido
+
+A través de un [tuit de Dani
+Latorre](https://twitter.com/dani_latorre/status/643548877677797376), hay un
+tema que me parece interesante y se aborda: Agilidad en equipas remotos.
+
+Pues bien, la gente de GitLab [ha
+escrito](https://about.gitlab.com/2015/09/14/remote-agile-at-gitlab/) sobre el
+tema.
+
+¡Disfrutad de la semana!
