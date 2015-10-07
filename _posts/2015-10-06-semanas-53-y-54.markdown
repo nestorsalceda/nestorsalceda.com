@@ -1,0 +1,137 @@
+---
+layout: post
+title: "Semanas 53 y 54"
+date: 2015-10-06 23:00
+category: retrospectiva
+---
+
+Otra vez se pasan dos semanas, pero esta vez con un ritmo frenético, un montón
+de leads y unos cuantos kilómetros. De lo más reseñable creo que
+ha sido la [Software Craftmanship de Barcelona](http://www.softwarecraftsmanshipbarcelona.org/)
+en mi humilde opinión, es probable que uno de los mejores eventos técnicos de este año
+(y por suerte hay mucha competencia!).
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) semanas de ir avanzando. Últimamente
+  estamos dedicando bastante esfuerzo a infraestructura y ha estado bastante
+  bien el poder coger alguna tarea de pair programming y TDD. También estuve de
+  visita por Madrid y aprovechamos el cumpleaños de Jaime para comer todos
+  juntos y hacernos una foto de equipo que me gustaría publicar.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) nada de nada. Ha empezado las
+  clases y yo voy con algún día menos, así que nos hemos saltado estos días.
+
+* Con la gente de Amex me aceptaron el presupuesto para unos nuevos cambios.
+  Esta vez he aprendido de mis errores y he puesto unas condiciones más
+  favorables para mí.
+
+* De la RaspberryPi, agua también. Me parece que voy a tener que empujarlo yo un
+  poco más.
+
+* He recibido un par de propuestas, una bastante interesante pero con bastante
+  discrepancia en el tema económico y otra que he descartado porque no me da la
+  vida para todo.
+
+###Proyectos personales
+
+He intentado sacarme un poco de tiempo para disfrutar programando con el Arduino
+e implementar el algoritmo de espectro con las luces, pero me he encontrado con
+un problema que creía haber olvidado. *No hay multithreading*.
+
+Pero he disfrutado bastante echándole un ojo a eliminar las llamadas a delay
+utilizando otras no bloqueantes, revisando librerías de timers y echando un ojo
+a [Protothreads](http://dunkels.com/adam/pt/). Yo creo que tenía ganas de
+hardcore.
+
+Últimamente me va por la cabeza pasar una temporada de Gnome y utilizar algún
+tipo de Tiling Window Manager, y creo que le echaré un ojo a
+[i3](http://www.i3wm.org).
+
+###Software Craftmanship de Barcelona
+
+En este segundo año intenté picar a más gente de Zaragoza para venir, ya que el
+año pasado volví lleno de energía y con un sabor de boca más que agradable.
+
+Así que nos fuimos una parte de sospechosos habituales del comando almogávar.
+Como es habitual en nuestras personas, dejamos toda la logística para el último
+momento. Como alguno decía por ahí, [el último momento responsable está jodidamente cerca del primer momento irresponsable](https://twitter.com/dani_latorre/status/649873438719508480).
+
+Llegamos el viernes por la tarde y quedamos con la gente de la
+[noflopsquad](http://noflopsquad.com), que habían estado de kata, calentando
+motores. Tomamos unas cervezas, acabamos el pan de los bocadillos y alguno se
+tuvo que comer su hamburguesa en una rosquilla y tras un par de intentos de
+arrastre a <s>bares pijos</s> sitios con cócteles de autor, nos tomamos un par
+de patxaranes en un bar del barrio y a dormir.
+
+Ya llegó el sábado.
+
+Empecé viendo a Sandro Mancuso hablar sobre la [discusión de si TDD lleva a un
+buen diseño](http://codurance.com/2015/05/12/does-tdd-lead-to-good-design/).
+Reflexiones bastante interesantes parecidas a las de [Ian Cooper en TDD, where
+dit it all go wrong](https://vimeo.com/68375232).
+
+Después fui a ver si me enteraba de qué era lo de [Mutation
+Testing](https://en.wikipedia.org/wiki/Mutation_testing) de la mano de [Vicenç
+García-Altés](https://twitter.com/vgaltes). Me gustó bastante el concepto,
+aunque no tengo muy claro el retorno de inversión, me gustó también que es una
+técnica que se empieza a utilizar ahora, ya que tiene un coste de computación
+elevado.
+
+La siguiente sesión fue la de [Xavi Gost](https://twitter.com/XaV1uzz) y
+[Manuel Rivero](https://twitter.com/trikitrok), hablando de un
+experimento de persistencia híbrida / políglota que han hecho con la
+[noFlopSquad](http://www.noflopsquad.com/). Me chirrió un poco lo de
+guardar un objeto en varios sitios, pero me gustó mucho la referencia al
+[Implementation Patterns de Kent
+Beck](http://www.amazon.es/Implementation-Patterns-Addison-Wesley-Signature-Kent/dp/0321413091/ref=sr_1_1?ie=UTF8&qid=1444204209&sr=8-1&keywords=implementation+patterns).
+Creo que son muy interesantes este tipo de experimentos y sobre todo, agradecer
+las ganas de presentar unos resultados.
+
+Luego me metí en la de Devops, pero me marché a los pocos minutos ya que me dio
+la sensación de que me íbamos a aportarnos poco. Y me marché al ver cómo [Javier
+Ferrer](https://twitter.com/JavierCane) estaba replanteando el diseño de una aplicación ya existente, y la verdad
+es que lo flipé aquí. Brutal, un chorro de optimismo, pasión, trabajo muy duro,
+equipo y nivel de DDD impresionante.
+
+La siguiente fue la de #NoEstimates. Empezó bastante bien, me gustó. Bastante
+clara para mí, que no tengo ni idea de este movimiento y me da curiosidad. Pero
+con alguna pregunta se atascó un poco y decidí marcharme. Creo que la de Jaime
+Perera me hubiera gustado más.
+
+Y para terminar el sábado, me tocó a mí. Estuve hablando de
+[Mamba](https://github.com/nestorsalceda/mamba), de cómo
+generaba el árbol de tests a partir del AST de Python y del reporting basado en
+eventos. Hablamos un poco de futuro y hasta hice un [merge en directo](https://github.com/nestorsalceda/mamba/pull/6://github.com/nestorsalceda/mamba/pull/60), a lo
+loco!
+
+Terminamos el día yendo a cenar unos cuantos y nos tomamos unas [cervezas](https://twitter.com/540info/status/650737121750335488) y nos
+reímos como bestias con la gente de [540](http://www.540deg.com/), a ver cuando
+nos volvemos a ver chavales!
+
+Como trasnochamos un poco, me perdí la primera charla del domingo, pero me
+llamaban la atención la de "Agile Perversion" y la de "Tu carrera como una
+maratón". Creo que si hubiese tenido que elegir, hubiera ido a la de tu carrera.
+
+Finalmente, antes del Open Space, fui a ver la charla de Accesibilidad en el
+software, de [Juanjo](https://twitter.com/kastwey) que es una de las que más me gustó: energía, bromas,
+adaptación del cerebro. Cuando yo era jovencito me enseñó a escribir a máquina
+una señora que era también ciega, y guardo muy buen recuerdo de ella. La verdad
+es que me fascinó ver el día a día de una persona invidente con los ordenadores.
+
+Y finalmente ya, bastante cansados y tras una retrospectiva, llegamos al OpenSpace. Estuvimos hablando de
+equipos distribuidos en remoto (ya es todo un clásico!), fui a profundizar un
+poco más de DDD y hablamos sobre comunidades locales, que me pareció bastante
+útil para aplicarlo en los próximos días.
+
+Y con eso, cerca de las 00:00 de la noche del domingo, entraba por la puerta de
+mi casa. Muy muy cansado, pero llenísimo de energía. Así que repetir mi
+[agradecimiento a la organización](https://twitter.com/nestorsalceda/status/650795279797624832) que han trabajado como titanes para que
+disfrutemos de este evento y de un fin de semana en Barcelona.
+
+###Recomendación de contenido
+
+Esta semana nada de contenido como tal, ¡pero hay un montón de buena mierda en la sección
+de la craftmanship!
+
+¡Disfrutad!
