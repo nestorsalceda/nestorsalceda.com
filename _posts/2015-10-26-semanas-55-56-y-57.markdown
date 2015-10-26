@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Semanas 55, 56 y 57"
+date: 2015-10-26 10:00
+category: retrospectiva
+---
+
+No es que me haya olvidado de las retrospectivas, esta vez he tenido unas
+semanas bastante frenéticas. La principal novedad es que me he mudado y pese a
+que nos han ayudado con la mudanza los amigos, es uno de esos momentos de estrés
+elevado. Me he cambiado a la margen izquierda y después de la primera semana ya
+viviendo aquí, estoy encantado.
+
+Todavía tengo la configuración de red un poco provisional, pero espero que en
+pocos días tenga ya instalación de fibra óptica en casa.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) sigue la cosa a un ritmo sostenible,
+  implementaciones de búsquedas, unos retoques grandotes para el issues y unos
+  cuantos deploys.
+
+* Con [Nacho](https://twitter.com/Nachokyoku) no hemos hecho nada, entre sus
+  clases y todos mis líos de estos días, poca cosa hemos podido hacer.
+
+* Con la gente de Amex me falta un pequeño reporte y un deploy a producción para
+  hacer las pruebas de la llamada de la semana pasada.
+
+* De la RaspberryPi, agua también. Me da la sensación de que este proyecto se
+  está muriendo.
+
+* Sigo recibiendo nuevas leads, y la verdad es que me empieza a picar un poco la
+  curiosidad. Ahora las estoy manejando con trello, y quizás me resultaría
+  interesante saber qué porcentaje son aceptadas respecto a las totales y
+  trabajar un poco el bajar el tiempo de ciclo con estas respuestas. Tengo ahora
+  en la chistera 3.
+
+###Proyectos personales
+
+Han sido días de jugar con OpenWrt, de remontar toda la red local y de montar la
+mesa. También he recibido unas cuantas issues en mamba que debería responder.
+
+Últimamente me están llamando la atención los despertadores con luz, y me estoy
+planteando hacerme uno.
+
+Y finalmente, he pasado de i3 y me he vuelto a Gnome. Está bien la abstracción
+de los tiling y te acabas manejando muy rápido, pero la mayor parte del tiempo
+estoy con un terminal y no sé hasta que punto se superpone la funcionalidad de
+i3 y tmux.
+
+###Recomendación de contenido
+
+Nada, esta semana nada de nada. Espero retomar pronto el ritmo normal de las
+cosas.
+
+¡Disfrutad!
