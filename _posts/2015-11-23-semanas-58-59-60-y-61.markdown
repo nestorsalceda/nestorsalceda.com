@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Semanas 58, 59, 60 y 61"
+date: 2015-11-23 10:00
+category: retrospectiva
+---
+
+Mejor no decir nada. 4 semanas sin retrospectiva, y no por pasividad o por
+olvidarme, sino por seguir llevando un ritmo fuertote.
+
+Ya tengo buena conexión en casa y puedo trabajar bien, y ya estoy completamente
+instalado y sigo encantado tras este mes de cambio de domicilio.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) poca novedad en el frente. Este es uno
+  de los proyectos estables, se avanza a buen ritmo.
+
+* Con la gente de Amex bastante malamente. Me llega poquito feedback, con
+  frecuencias muy largas y se va extendiendo en el tiempo. No estoy para nada
+  satisfecho con este proyecto.
+
+* Como novedad, estoy colaborando también con Huridocs. Estoy intentando poner
+  un poco de orden en la parte de sistemas y estoy muy contento con el
+  comienzo que hemos tenido. Es también mi primer proyecto internacional y
+  aunque retomar el inglés me cuesta, estoy bastante motivado.
+
+* Finalmente, una de las novedades más potentes que tengo entre manos es un
+  proyecto en el que estamos varias personas a las que respeto mucho como
+  profesionales. Gente con la que te molaría trabajar. Todavía estamos de
+  inception y haciendo pruebas entre las sombras, pero tengo muchísimas ganas de
+  este proyecto.
+
+###Proyectos personales
+
+Muy poquita cosa. Me gustaría sacar un poco de tiempo para los gimnasios, pero
+me da la impresión de que se me ha quedado estancado.
+
+Estoy estudiando la posibilidad de cambiar las tiras de led que utilizo en mi
+mesa, por unas de 144 leds por metro (las que uso ahora son de 30 leds por
+metro), y estoy tanteando precios en Aliexpress y ver si me puedo quitar el
+arduino y hacerlo todo con la raspberry.
+
+###Recomendación de contenido
+
+Últimamente me está llamando bastante más la atención el frontend y escapar de
+los frameworks CSS. [Jesús Cuadra](http://www.tallergorilas.com/) me comentó
+sobre [Atomic Web Design de Brad
+Frost](http://bradfrost.com/blog/post/atomic-web-design/) y es algo sobre lo que
+me gustaría sacar un poco más de tiempo para estas cosas.
+
+¡Disfrutad y para la siguiente no tardaré tanto!
