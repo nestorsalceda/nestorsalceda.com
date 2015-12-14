@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Semanas 62, 63 y 64"
+date: 2015-12-14 10:00
+category: retrospectiva
+---
+
+Están siendo unas semanas con bastante trabajo, pero bastante contento con lo
+que estoy sacando. No son cosas del tipo de es fin de año y tengo que quemar
+este dinero, que si no el año que viene me asignarán menos en el presupuesto.
+Son cosas de añadir valor, y eso me gusta mucho.
+
+He conseguido no demorar la tercera semana, pero me tengo que poner un poco más
+serio con los plazos de las retrospectivas.
+
+###Proyectos en curso
+
+* Con [alea](http://alea-soluciones.com) hemos tenido algún fallete en algún
+  deploy, lo que nos ha obligado a mirarnos el ombligo y hacer un poquito de
+  retrospectiva en este aspecto. Por lo demás, ritmo normal y corriente.
+
+* Con la gente de Amex parece que está cerrado el proyecto. Sí, ya se que todas
+  las semanas la misma historia. Espero que esta vez sea así.
+
+* Con la gente de [huridocs](http://huridocs.org) ya hemos pasado el primer mes
+  y estoy bastante contento con el resultado. Se trata de poner un poco de orden
+  en la parte de sistemas y parece que con sentido común y un poquito de ansible
+  estoy consiguiéndolo. Me gustan mucho estos primeros meses porque son los que
+  te marcan el camino, y me gusta mucho ser capaz de en 1 semana haber podido
+  entregar valor.
+
+* Con el proyecto en común de los cinco, ya estamos trabajando en algunas leads
+  y haciendo alguna inception para empezar un proyecto de verdad. Esta semana
+  recibiremos una visita muy esperada de la que esperamos un poquito de ayuda
+  en la parte organizativa. Stay tuned, porque lo vamos a petar.
+
+* Me han llegado una ampliación en los pressrooms de Pedro del Hierro y
+  Cortefiel, que se está estudiando aunque dudo que salga.
+
+###Proyectos personales
+
+Me tocó emitir mi primera factura en dólares y estuve evaluando algún software
+tipo [harvest](http://getharvest.com), que es que utilizo ahora, que tuviese
+soporte de varios idiomas en las facturas. Pero no lo he encontrado.
+
+###Recomendación de contenido
+
+Nada de nada. Están siendo días difíciles.
+
+¡Disfrutad y para la siguiente no tardaré tanto!
