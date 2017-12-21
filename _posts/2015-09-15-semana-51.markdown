@@ -10,7 +10,7 @@ bastante fructífera, ya que he cerrado un proyecto que tenía muchas ganas ya
 que voy a hacer cosas un poco diferentes, no tanto en el qué, sino en el cómo.
 De este modo, empiezo a socializar un poco con otros profesionales.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) ha habido buen ritmo de deploy de
   funcionalidades nuevas y arreglos con algunas imágenes de Docker. También ha
@@ -35,7 +35,7 @@ De este modo, empiezo a socializar un poco con otros profesionales.
 
 * Efectivamente, se cayó el proyecto de Prosegur :(
 
-###Proyectos personales
+### Proyectos personales
 
 Pues aquí hay varias cosas. Con el tema de los gimnasios, va hacia adelante. Con
 buen ritmo, voy a montar una máquina propia ya para empezar a implantarlo en
@@ -48,7 +48,7 @@ Y finalmente, he estado trasteando con
 [ag.vim](https://github.com/rking/ag.vim), pero me gusta la capacidad de este
 plugin para hacer un buscar y reemplazar.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana, he estado leyendo sobre *Feature Toggles* y he encontrado un
 artículo de los de pensar un poco.

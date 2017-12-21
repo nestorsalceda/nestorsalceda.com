@@ -8,7 +8,7 @@ category: retrospectiva
 Ya la última semana productiva antes de encarar la navidad. Apurando para cerrar
 cosas.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) estuve con la nueva aplicación y ya
   estoy dando los retoques finales. Espero que mañana haya terminado ya con la
@@ -37,7 +37,7 @@ cosas.
   la gente de [Agile Aragón](http://agile-aragon.org/) y me dio buena impresión.
   Ahora a ver si nos juntamos para preparar la landing.
 
-###Proyectos personales
+### Proyectos personales
 
 Tengo ya las piezas del NAS, pero me llegó el micro jodido. La verdad es que
 llegó sin caja y sólo envuelto en papel de burbujas, así que vaya vuestra merced
@@ -53,7 +53,7 @@ con el tema :)
 Estuve también escribiendo sobre la entrega de valor, que yo creo que para esta
 semana lo puedo tener.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana, algo más ligerito:  Spotify Engineering Culture: [Part
 1](http://vimeo.com/85490944) y [Part 2](http://vimeo.com/94950270)

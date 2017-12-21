@@ -8,7 +8,7 @@ category: retrospectiva
 Esta semana me ha dado tiempo a cerrar cosas, y eso es una buena noticia.
 También han entrado cosas nuevas, que es otra buena noticia.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) seguimos avanzando en el deploy con
   docker, y la verdad es que ya va viento en popa. Me tocó facilitar la
@@ -33,13 +33,13 @@ También han entrado cosas nuevas, que es otra buena noticia.
 * Con los pressrooms de Pedro del Hierro y Cortefiel ya tengo automatizada la
   generación del reporte, así que esto se queda cerrado también.
 
-###Proyectos personales
+### Proyectos personales
 
 Aquí hubo bastante movimiento con el tema de los gimnasios. Estuvimos cambiando
 el tema para el backend y ya para un par de semanas después de semana santa,
 creo que puedo empezar a hacer demos.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Esta semana, nada de nada :(
 

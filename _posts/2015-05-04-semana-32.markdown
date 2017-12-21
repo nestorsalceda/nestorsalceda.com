@@ -15,7 +15,7 @@ toca. Y en cuanto pase esta racha, me pillaré un par de días de puente, porque
 sí :D
 
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) seguimos con el pair programming, y
   feature tras feature, sin que la rueda pare de girar. Me encanta este ritmo.
@@ -45,13 +45,13 @@ sí :D
 * Tengo encima de la mesa el recubrimiento de la librería de C, que quiero darle
   un arreón esta semana.
 
-###Proyectos personales
+### Proyectos personales
 
 Hay algo en [Bolt](http://github.com/nestorsalceda/bolt) que me ha cambiado.
 Creo que es la gema de [InfluxDB](http://influxdb.com) que ha cambiado el API y
 tengo que adaptarla.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Esta semana, al hablar de diseño y fuentes quería marcar la importancia de la
 tipografía en el diseño web. Y hay un artículo de la gente de [VGS Tecnologías Web](https://www.vgsystems.es) que me gusta.

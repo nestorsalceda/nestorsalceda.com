@@ -9,7 +9,7 @@ Otra vez 2 semanas, la verdad es que voy haciendo cosas a muy buen ritmo y a
 veces me abstraigo de escribir los resúmenes. Pero considero valiosa esta
 retrospectiva.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com), ya estamos con el horario de verano.
   Aun así, suelo aprovechar las tardes para trabajar en alguna idea menos
@@ -30,7 +30,7 @@ retrospectiva.
 * Con un par de colegas, estamos gestando alguna idea y es probable que acabemos
   dándole forma, así que #stayTuned.
 
-###Proyectos personales
+### Proyectos personales
 
 Lo bueno del verano es que puedo aprovechar a hacer más cambios y probar más
 cosas.
@@ -51,7 +51,7 @@ cosas.
   cultura en [Atlassian](http://atlassian.com) y vino bastante gente al [Friday
   Dojo](https://gist.github.com/danilat/4aa06b7b97f36bf01cfe).
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Esta semana viene con temas nuevos, Martin Fowler ha escrito un par de artículos
 sobre microservicios:

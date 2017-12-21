@@ -8,7 +8,7 @@ Ayer por la noche volví con [Dani Latorre](http://danilat.com) de hacer un
 desksurfing de 3 días en [La cueva de
 Benimaclet](https://www.facebook.com/lacuevadebenimaclet).
 
-###¿En qué consiste un desksurfing?
+### ¿En qué consiste un desksurfing?
 
 A mí me gusta verlo como una práctica en la que permite aprender cómo trabajan
 las personas en otros lugares, en sus entornos, con sus proyectos y compartiendo
@@ -19,13 +19,13 @@ que creo que es beneficioso abrir la mente, aprender y compartir ese
 conocimiento. Cuando una persona tiene una idea y otra persona tiene otra idea y la comparten,
 resulta que cada uno de los dos se marcha con dos ideas en la cabeza.
 
-###¿Qué quería traerme de la Cueva?
+### ¿Qué quería traerme de la Cueva?
 
 Quería ver 2 cosas: ¿Cómo lo hacen para el trabajo remoto y distribuido? y
 quería hablar de hacer negocios: Precios, presupuestos, condiciones, tipos de
 clientes y proyectos.
 
-###¿Qué me traigo de la Cueva?
+### ¿Qué me traigo de la Cueva?
 
 Llegamos a Valencia el lunes por la noche, nos encontrarnos con
 [Aitor](http://twitter.com/iTor3_0) y [Xavi](http://twitter.com/Xav1uzz) y nos
@@ -59,7 +59,7 @@ El jueves madrugamos poco, que como hubo derroche, pues ya se sabe. Vimos a
 [Miguel Angel](http://twitter.com/elmendalerenda) y ya nos preparamos para
 volver a Zaragoza.
 
-####Trabajo remoto
+### #Trabajo remoto
 
 Pude ver con Xavi el tema de cómo hacen las reuniones diarias, y pude ver un
 [Flowdock](http://flowdock) con datos y cómo usan [Slack](http://slack.com),
@@ -76,7 +76,7 @@ Me gusta mucho hablar de estas cosas, yo creo que tiene que ver con que trabajo
 solo en los proyectos y sólo tengo que organizarme conmigo mismo, entonces el
 ver a varias personas en el mismo proyecto, me gusta.
 
-####Negocios y freelanceos
+### #Negocios y freelanceos
 
 Estuvimos hablando de tiempo y de valor. Ando un poco preocupado últimamente
 porque no tengo demasiado tiempo para hacer cosas que me gustan o para ocuparme
@@ -123,7 +123,7 @@ Conversando y haciendo retrospectiva, creo que he cometido unos cuantos errores:
 Con la parte que tengo como contractor, estoy encantado, así que nada de esto
 aplica :)
 
-###Acciones futuras
+### Acciones futuras
 
 Aquí creo que es dónde ha habido magia. Sin comerlo ni beberlo hemos tomado un
 par de decisiones.
@@ -135,7 +135,7 @@ par de decisiones.
   Rubio](http://javirubio.net). Tienen una idea bastante interesante de la que
   no voy a hablar más ahora, pero me ha gustado y vamos a darle candela.
 
-###Agradecimientos
+### Agradecimientos
 
 No me gusta poner nombres, porque siempre me dejo a alguno, pero vuelvo
 encantado de este desksurfing y voy a dar las gracias todos y cada uno de los

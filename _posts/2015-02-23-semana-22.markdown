@@ -9,7 +9,7 @@ Esta semana ha sido la de la vuelta de las vacaciones, y sin embargo me estoy
 notando un poquillo estancado. Quizás no he completado el aterrizaje aún, pero
 hay que ponerse las pilas, que hay muchas cosas que hacer.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) ha sido una semana normal y corriente,
   pairing, nuevas funcionalidades y un futuro inmediato con muy buena pinta en
@@ -35,14 +35,14 @@ hay que ponerse las pilas, que hay muchas cosas que hacer.
 * El proyecto de Python y PyQt se ha caído. Una lástima, pero son cosas que
   pasan.
 
-###Proyectos personales
+### Proyectos personales
 
 He añadido soporte para Python 2.6 en mamba y estuve haciéndome una pequeña
 inception para el tema de la aplicación para los gimnasios, pero creo que voy a
 tirar hacia prototipos en primer lugar, que es un mundo que conozco poco y no sé
 bien si lo que quiero hacer, lo quiere comprar alguien.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Esta semana, la charla es más técnica: [Robert C. Martin - Advanced TDD: The
 transformation priority premise](https://vimeo.com/97516288)

@@ -13,7 +13,7 @@ Son cosas de añadir valor, y eso me gusta mucho.
 He conseguido no demorar la tercera semana, pero me tengo que poner un poco más
 serio con los plazos de las retrospectivas.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) hemos tenido algún fallete en algún
   deploy, lo que nos ha obligado a mirarnos el ombligo y hacer un poquito de
@@ -37,13 +37,13 @@ serio con los plazos de las retrospectivas.
 * Me han llegado una ampliación en los pressrooms de Pedro del Hierro y
   Cortefiel, que se está estudiando aunque dudo que salga.
 
-###Proyectos personales
+### Proyectos personales
 
 Me tocó emitir mi primera factura en dólares y estuve evaluando algún software
 tipo [harvest](http://getharvest.com), que es que utilizo ahora, que tuviese
 soporte de varios idiomas en las facturas. Pero no lo he encontrado.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Nada de nada. Están siendo días difíciles.
 

@@ -13,7 +13,7 @@ empecé como autónomo siempre había pensado que agosto sería uno de esos mese
 flojicos. Pero como tantas otras predicciones que he intentado hacer, es
 errónea; así que he aprendido a adaptarme continuamente a los cambios.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) días de limpiar código viejuno y de
   sustituir unas piezas por otras. En estos momentos es cuando se vé si el
@@ -44,7 +44,7 @@ errónea; así que he aprendido a adaptarme continuamente a los cambios.
 
 Sí, como bien se puede observar, estoy hasta arriba de trabajo.
 
-###Proyectos personales
+### Proyectos personales
 
 Poca cosa, el tema de los gimnasios lo voy a mover un poco más con Nacho y ver
 si podemos salir para este mes, o para el siguiente. Sé que no está completo,
@@ -57,7 +57,7 @@ de cómo enfocarlo.
 Tengo que mandar una propuesta para la Craftmanship de Barcelona, a ver si a la
 gente le mola y la puedo desarrollar un poco más.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana, [una que me han
 recomendado](https://twitter.com/eferro/status/635914441087913984). Espero poder

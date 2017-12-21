@@ -16,7 +16,7 @@ Nota para mi mismo: Empiezo a necesitar un puente largo, o alargar un fin de
 semanas y creo que va a venir de perilla el AOS del 2015 en Gijón.
 
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com), hemos estado haciendo algunos spikes,
   integrando tecnología de terceros, pero ha habido tiempo para seguir con
@@ -47,7 +47,7 @@ semanas y creo que va a venir de perilla el AOS del 2015 en Gijón.
   muy muy buena pinta, y todavía no voy a dar detalles, pero es con gente con la
   que ya he trabajado anteriormente y alguno otro con el que me gustaría trabajar.
 
-###Proyectos personales
+### Proyectos personales
 
 He vuelto a retomar la aplicación del tema de los gimnasios, y me gustaría
 preparar una demo para esta semana.
@@ -57,7 +57,7 @@ viernes](https://gist.github.com/nestorsalceda/2b2c22f55aeef5325d8f) y el 29 fue
 el primer día. [Sentamos las bases](http://senpaidevs.com/fridaydojo) y me marché i
 muy muy satisfecho con el resultado.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana, tengo 2:
 

@@ -9,7 +9,7 @@ Dos semanas un poco cargaditas con un proyecto que me entró y que debería
 terminar entre hoy y mañana. Y ya preparando las vacaciones, que tengo bastantes
 ganas de una semanita de playa y de relajación.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) una semana completita, temas de docker,
   una máquina que se nos subía un poquito de carga y sacar funcionalidades
@@ -28,7 +28,7 @@ ganas de una semanita de playa y de relajación.
   SSH](https://issues.jenkins-ci.org/browse/JENKINS-26379). Pero yo creo que
   entre hoy y mañana se queda ya cerrado.
 
-###Proyectos personales
+### Proyectos personales
 
 Poca movida aquí, para el tema de los gimnasios he estado registrando pagos
 y poco más. La verdad es que el proyecto de la integración continua se me ha
@@ -38,7 +38,7 @@ El viernes 31 facilité la [4ª sesión del Friday Dojo](https://gist.github.com
 estuvimos hablando de patrones y de refactorizar a patrones. Hablamos de
 decorator, builder y factory.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana son una serie de posts sobre testing: [Getting Testy:
 Redux](http://randycoulman.com//blog/2015/08/04/getting-testy-redux/)

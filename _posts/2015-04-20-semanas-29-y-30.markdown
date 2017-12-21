@@ -13,7 +13,7 @@ En la parte social, como el 5º Aniversario de Agile Aragón,
 en el cual facilité la retrospectiva. Asimismo, este fin de semanas fue el
 Open Space de Startups de Cachirulo Valley.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) vamos a toda mecha, siguen saliendo
   nuevas funcionalidades y nos da tiempo a seguir mejorando nuestro proceso de
@@ -46,13 +46,13 @@ Open Space de Startups de Cachirulo Valley.
 * Tengo encima de la mesa una estimación para un proyecto para recubrir una
   librería de C, que le tengo bastantes ganas también a ese proyecto.
 
-###Proyectos personales
+### Proyectos personales
 
 Aún he conseguido algo de tiempo para el tema de los gimnasios, y ya tengo una
 versión visible. Hace poquito, y no es ni mucho menos un MVP, pero creo que
 empiezo a ver la luz con este tema.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Aquí he aprovechado un poco más el tiempo. Como el Jueves estuve hablando de Zsh
 y de Vim, pues quiero enseñar la presentación que les mostré:

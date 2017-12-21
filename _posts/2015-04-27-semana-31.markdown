@@ -10,7 +10,7 @@ martes fue mi 31 cumpleaños, pero no fue lo que yo había planeado para mi
 cumpleaños porque ingresaron a mi madre de urgencias, aunque afortunadamente, no
 parece nada grave.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) de vuelta al pair programming y a
   escribir nuevas funcionalidades.
@@ -34,11 +34,11 @@ parece nada grave.
 * Tengo encima de la mesa el recubrimiento de la librería de C, que todavía no
   he podido darle un bocado.
 
-###Proyectos personales
+### Proyectos personales
 
 Agua :(
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Del blog de Codurance, he leído un poquito por encima, y hay una serie de posts
 sobre patrones de diseño que tienen muy buena pinta.

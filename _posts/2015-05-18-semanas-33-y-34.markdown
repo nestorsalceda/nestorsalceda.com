@@ -10,7 +10,7 @@ algo de tiempo para estar con algún proyecto personal y alguna cosa nueva que
 viene.
 
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) sigue el ritmo normal, pairing con Go,
   deploys a cascoporro y extraer algunos componentes comunes.
@@ -35,7 +35,7 @@ viene.
 * He recibido una petición de presupuesto, pero voy bastante pillado de tiempo y
   se me va un poco de lo que hago normalmente, así que voy a descartarlo.
 
-###Proyectos personales
+### Proyectos personales
 
 He arreglado el error de  [Bolt](http://github.com/nestorsalceda/bolt) con
 [InfluxDB](http://influxdb.com), pero tengo alguna hora sin meter datos. Y tengo
@@ -50,7 +50,7 @@ es que salí encantado del curso y creo que es una herramienta que me va a ayuda
 a abrir los proyectos y a poder cerrarlos, que creo que últimamente me cuesta un
 poco más.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Es un post bastante viejuno, pero creo que es una buena checklist de cosas que
 hacer al recibir un VPS nuevo.

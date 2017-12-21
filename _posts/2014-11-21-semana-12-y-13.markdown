@@ -13,7 +13,7 @@ administrativas.
 
 Así, que en algún momento había que romper.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) he seguido con
   [go](http://golang.org), en temas de infraestructura y hemos avanzado en más
@@ -26,7 +26,7 @@ Así, que en algún momento había que romper.
 * Con la parte de doman, ya están los cambios en el DNS y creo que salvo el copy
   ya está cerrado también.
 
-###Proyectos personales
+### Proyectos personales
 
 * Con [mamba](http://github.com/nestorsalceda/mamba) se puso en contacto conmigo
   un muchacho de México y me dio una alegría al ver que se usaba. Y he arreglado
@@ -38,7 +38,7 @@ Así, que en algún momento había que romper.
   tener talento estético, me tengo que buscar la vida y aprender de cosas ya
   hechas.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Esta semana ha sido de temática diferente: Rob Pike [Go Concurrency
 Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)

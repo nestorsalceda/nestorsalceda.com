@@ -54,7 +54,7 @@ Y finalmente, ha sido el año en el que tengo un padawan,
 [Nacho](http://twitter.com/Nachokyoku), que está siendo una experiencia muy
 gratificante para mí.
 
-### En lo puramente profesional
+###  En lo puramente profesional
 
 Mi colaboración con [Alea Soluciones](http://www.alea-soluciones.com/) siguió y
 sigue adelante. Ha sido el año de [Go](http://go-lang.org),

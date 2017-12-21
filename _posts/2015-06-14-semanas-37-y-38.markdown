@@ -14,7 +14,7 @@ cosas nuevas para abrir el melón, pero los días que voy estar en [AOS 2015 en
 Gijón](http://aos2k15.agile-spain.org/) con la avanzadilla Almogávar es
 absolutamente necesaria para desconectar y descansar un poquito.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com), aquí todo sigue normal y estable. La
   semana pasada estuve el lunes y el martes con ellos en Madrid, que ya lo
@@ -47,7 +47,7 @@ absolutamente necesaria para desconectar y descansar un poquito.
   ya he tenido quiere repetir. Es un buen síntoma de que te están apreciando
   como profesional.
 
-###Proyectos personales
+### Proyectos personales
 
 No ha habido demo con el tema de los gimnasios, pero he avanzado. Y cada vez
 tiene una mejor pinta. Parece que Septiembre puede ser una buena fecha para
@@ -57,7 +57,7 @@ Con [SenpaiDevs](http://senpaidevs.com) abrimos el Dojo el viernes pasado, y
 empieza a ser patente el hambre de código de verdad. Así que para el próximo voy
 a pedir ayuda con Mamba y darle un achuchón más.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana, me marcho a la tierra. [Mi dominio es mío y no me lo
 toques](https://vimeo.com/69157481), me encanta Javier Acero. He tenido la

@@ -14,7 +14,7 @@ viviendo aquí, estoy encantado.
 Todavía tengo la configuración de red un poco provisional, pero espero que en
 pocos días tenga ya instalación de fibra óptica en casa.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) sigue la cosa a un ritmo sostenible,
   implementaciones de búsquedas, unos retoques grandotes para el issues y unos
@@ -35,7 +35,7 @@ pocos días tenga ya instalación de fibra óptica en casa.
   trabajar un poco el bajar el tiempo de ciclo con estas respuestas. Tengo ahora
   en la chistera 3.
 
-###Proyectos personales
+### Proyectos personales
 
 Han sido días de jugar con OpenWrt, de remontar toda la red local y de montar la
 mesa. También he recibido unas cuantas issues en mamba que debería responder.
@@ -48,7 +48,7 @@ de los tiling y te acabas manejando muy rápido, pero la mayor parte del tiempo
 estoy con un terminal y no sé hasta que punto se superpone la funcionalidad de
 i3 y tmux.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Nada, esta semana nada de nada. Espero retomar pronto el ritmo normal de las
 cosas.

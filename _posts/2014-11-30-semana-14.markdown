@@ -11,7 +11,7 @@ constante pero también fuerte.
 Quería haber escrito el viernes, pero me desperté un poco tarde después de la
 cena de Movember en La Jamonería.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) estuve lunes y martes en Madrid.
   Estuvimos haciendo una inception de un nuevo desarrollo y discutiendo algunos
@@ -38,7 +38,7 @@ cena de Movember en La Jamonería.
   Rubio](http://javirubio.net) dándole forma a una idea que tenemos entre manos.
   Ya hemos a anotar las ideas y algunas tareas organizativas.
 
-###Proyectos personales
+### Proyectos personales
 
 * Con [mamba](http://github.com/nestorsalceda/mamba) no he avanzado en nada mas,
   tengo que hacer una release con el último fix que hice.
@@ -50,7 +50,7 @@ cena de Movember en La Jamonería.
   en mirar alguna tira con el doble de leds por metro de la que uso ahora, pero
   esta opción es mas barata ahora mismo, y con ello seguiré.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Pese a que no es la charla que más me gusta de Koldo Saratxaga, igual un poco
 larga también, pero me gusta mucho por el contexto que tiene. [Koldo Saratxaga:

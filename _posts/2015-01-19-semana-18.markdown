@@ -12,7 +12,7 @@ También me he dado cuenta que lo de hacer la retrospectiva los viernes no lo
 estoy cumpliendo bien, así lo vuelvo a poner los lunes y me sirve para
 planificarme la semana.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) ya tengo cerrada la aplicación que
   estaba haciendo. Cerrada y facturada y volvemos al proyecto original. Estos
@@ -41,7 +41,7 @@ planificarme la semana.
   ya inscritos. Creo que el miércoles nos juntaremos y empezaremos a cerrar las
   fechas.
 
-###Proyectos personales
+### Proyectos personales
 
 Tengo el NAS funcionando, y estoy muy contento con el resultado. Lo he hecho todo
 con Docker y me falta definir la estructura de copias de seguridad un poquito
@@ -54,7 +54,7 @@ He tenido un poco de actividad con
 [viper](https://github.com/nestorsalceda/viper) así que igual aprovecho para
 darle unos empujones.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana me ha pillado el toro y no he podido parar a ver nada, así que,
 para la siguiente será.

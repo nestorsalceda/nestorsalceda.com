@@ -7,7 +7,7 @@ category: retrospectiva
 
 Estas dos semanas las hago juntas, ya que he estado de vacaciones unos cuantos días.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) hemos estado con el ritmo normal y las
   tareas de desarrollo normales. Estamos ya empezando a pensar el deploy con
@@ -30,11 +30,11 @@ Estas dos semanas las hago juntas, ya que he estado de vacaciones unos cuantos d
   montón que no toco Qt, pero me apetece bastante meterme. Aún así, a ver cómo
   me lo hago para cuadrar los tiempos, que creo que tengo mucho WIP ahora mismo.
 
-###Proyectos personales
+### Proyectos personales
 
 He recibido un par de issues en mamba, que tengo que cerrar.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 La de esta semana es sobre motivación.
 

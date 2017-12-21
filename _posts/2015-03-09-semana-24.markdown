@@ -9,7 +9,7 @@ En esta semana he tenido sensación de progreso, y eso que el Jueves era fiesta
 local en Zaragoza, pero aún estuve trabajando un rato, que me han llegado
 algunas propuestas nuevas.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) ha sido una semana un poco rara, ha
   tocado meterle un poquillo de mano al Puppet, y cada día lo tengo más claro, ni con
@@ -35,7 +35,7 @@ algunas propuestas nuevas.
   de ancho de banda y algo para conseguirlo cada mes. Estoy acabando de
   pensar cómo hacerlo.
 
-###Proyectos personales
+### Proyectos personales
 
 El rey de esta semana ha sido el tema de los gimnasios, el viernes tuve una demo
 y la verdad es que la parte de negocio se quedó bastante sorprendida con el
@@ -44,7 +44,7 @@ resultado.
 Así que hemos decidido que vamos a sacar lo mínimo que podamos vender y a por
 todas, que esto puede funcionar.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 En esta semana es un artículo. [Reglas de Diseño de Kent
 Beck](http://martinfowler.com/bliki/BeckDesignRules.html) sintetizadas por Martin

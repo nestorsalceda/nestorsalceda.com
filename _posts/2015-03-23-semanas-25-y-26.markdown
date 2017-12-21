@@ -9,7 +9,7 @@ Dos semanas a tope, con viaje a Madrid y todo, que ya tenía ganas también. Voy
 con retraso con algunas propuestas, pero ya parece que tengo todo un poco más
 cerrado.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) ha sido semana de avance, hemos
   mejorado el tema del deploy con Docker y he vuelto a programar, que tenía
@@ -36,13 +36,13 @@ cerrado.
 * Con los pressrooms de Pedro del Hierro y Cortefiel ya sé como automatizar la
   generación del reporte.
 
-###Proyectos personales
+### Proyectos personales
 
 De nuevo estas dos semanas, he empleado bastante tiempo en el tema de la gestión
 de los gimnasios, y ya tengo una primera versión desplegada. Espero esta semana
 terminar lo mínimo y poder ya enseñarlo.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 En esta semana es un artículo también. Es viejillo, pero me gusta mucho cómo
 comunica Sandi Metz. El artículo es [SOLID Design Principles - Dependency

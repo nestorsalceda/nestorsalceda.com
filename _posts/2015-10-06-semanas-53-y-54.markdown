@@ -11,7 +11,7 @@ ha sido la [Software Craftmanship de Barcelona](http://www.softwarecraftsmanship
 en mi humilde opinión, es probable que uno de los mejores eventos técnicos de este año
 (y por suerte hay mucha competencia!).
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) semanas de ir avanzando. Últimamente
   estamos dedicando bastante esfuerzo a infraestructura y ha estado bastante
@@ -33,7 +33,7 @@ en mi humilde opinión, es probable que uno de los mejores eventos técnicos de 
   discrepancia en el tema económico y otra que he descartado porque no me da la
   vida para todo.
 
-###Proyectos personales
+### Proyectos personales
 
 He intentado sacarme un poco de tiempo para disfrutar programando con el Arduino
 e implementar el algoritmo de espectro con las luces, pero me he encontrado con
@@ -48,7 +48,7 @@ hardcore.
 tipo de Tiling Window Manager, y creo que le echaré un ojo a
 [i3](http://www.i3wm.org).
 
-###Software Craftmanship de Barcelona
+### Software Craftmanship de Barcelona
 
 En este segundo año intenté picar a más gente de Zaragoza para venir, ya que el
 año pasado volví lleno de energía y con un sabor de boca más que agradable.
@@ -129,7 +129,7 @@ mi casa. Muy muy cansado, pero llenísimo de energía. Así que repetir mi
 [agradecimiento a la organización](https://twitter.com/nestorsalceda/status/650795279797624832) que han trabajado como titanes para que
 disfrutemos de este evento y de un fin de semana en Barcelona.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Esta semana nada de contenido como tal, ¡pero hay un montón de buena mierda en la sección
 de la craftmanship!

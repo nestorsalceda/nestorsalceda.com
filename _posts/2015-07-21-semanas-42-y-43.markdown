@@ -8,7 +8,7 @@ category: retrospectiva
 Esta vez no son dos semanas, pero casi, ya que últimamente los lunes los tengo
 bastante cargaditos.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) las cosas siguen el ritmo normal y
   sostenible. Me he adaptado bien al horario de verano y sigo aprovechando las
@@ -30,7 +30,7 @@ bastante cargaditos.
 * Con el proyecto con temas de integración continua, tengo que retocar el ámbito
   de la propuesta, que parece que el presupuesto se les iba un poco.
 
-###Proyectos personales
+### Proyectos personales
 
 El viernes pasado [Alberto Gualis](http://www.twitter.com/gualison) se encargó de [facilitar el Friday
 Dojo](https://gist.github.com/agualis/aedb530b294ae2344584), y estuvimos hablando de los estilos de TDD, clásico y mockista.
@@ -43,7 +43,7 @@ Me gusta también que haya más personas que se animen a facilitar estas sesione
 y que no seamos siempre las mismas caras, que es uno de los objetivos que
 teníamos en el Friday Dojo.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana, vamos a tirar de casa. Ya que Alberto se lo trabajó muy bien:
 

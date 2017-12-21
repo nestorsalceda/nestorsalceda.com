@@ -9,7 +9,7 @@ Venga, esta semana ha sido ya un poco más apacible. Se nota el verano y me gust
 mucho, porque consigo un poquito de tiempo para mis proyectos y algo de
 tool-sharpening.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) estoy contento, he retomado
   [Go](http://golang.org), que hacía ya días que no escribía código de este
@@ -28,7 +28,7 @@ tool-sharpening.
   ya estoy manos a la obra. Hacía bastante tiempo que no tocaba Chef, pero me
   sigo sintiendo bastante cómodo.
 
-###Proyectos personales
+### Proyectos personales
 
 Han sido días de experimentar. Por una parte, con el tema de los gimnasios ya he
 migrado los agregados a jsonb, con PostgreSQL. En la siguiente sección estará el
@@ -47,7 +47,7 @@ me viene mejor aún si no tengo que salirme del editor, y aquí es donde juega
 vim-dispatch, haciéndolo en segundo plano y mostrándome la ventana de QuickFix
 si algo falla.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana, vamos al hardcore: [The Ideal Domain-Driven Design Aggregate Store](https://vaughnvernon.co/?p=942)
 

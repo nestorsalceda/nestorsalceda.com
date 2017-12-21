@@ -8,7 +8,7 @@ category: retrospectiva
 Esta ha sido la semana después del [AOS 2015](http://aos2k15.agile-spain.org) en
 Gijón, por lo que he tenido sólo 2 días, y uno de ellos estuve en Madrid.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com), me tocó hacer de argentino y facilitar
   la retrospectiva.
@@ -37,11 +37,11 @@ Gijón, por lo que he tenido sólo 2 días, y uno de ellos estuve en Madrid.
 * Tengo un proyecto incipiente sobre el que he pedido un poco más de
   documentación, a ver qué más saco.
 
-###Proyectos personales
+### Proyectos personales
 
 Nada de nada.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 La de esta semana es [Curing Agile Hangover with Craftmanship](https://vimeo.com/44243846).
 
@@ -50,7 +50,7 @@ del craftmanship, si lo apartamos, hay algunas ideas y críticas bastante
 interesantes.
 
 
-### AOS2015
+###  AOS2015
 
 Nos fuimos el miércoles a mediodía, con tranquilidad y con ganas de disfrutar y
 cargar las pilas. Y por lo menos yo, lo he hecho.

@@ -18,7 +18,7 @@ Aun así, ya sabemos que los autónomos tenemos 2 peculiaridades:
 Afortunadamente, estoy más sano que una pera y sólo tuve que comprimir el
 trabajo.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) estuve con la nueva aplicación. Tengo
   muy buena sensación, ya que ha salido un sprint cero bastante bueno y en la
@@ -46,12 +46,12 @@ trabajo.
   cena de "los sin empresa" de Zaragoza. Sacamos tarjetas nuevas y vamos
   planificando. Creo que esta semana se empezará a oír algo ya de nosotros.
 
-###Proyectos personales
+### Proyectos personales
 
 Ya tengo encargadas las piezas del NAS, y yo creo que hacia el final de la
 semana me lo dejaré montado.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Para esta semana voy a recomendar a Xavi Gost y una charla de [refactoring to
 patterns](https://www.youtube.com/watch?v=ME30PL5jn04).

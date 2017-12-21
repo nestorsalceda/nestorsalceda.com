@@ -10,7 +10,7 @@ pero ha entrado otro, así que uno por otro. Son cosas que pasan. No obstante, e
 viernes me voy a Burdeos y volveré el lunes, así, cogiendo un puentecillo de los
 de porque si.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) hemos seguido profundizando en el tema
   de Docker para los despliegues, y hay alguna cosa que va chirriando, pero que
@@ -31,7 +31,7 @@ de porque si.
 * Con el tema de la Raspberry, ya tengo el hardware y tengo los dispositivos
   funcionando. Ahora toca ver qué es lo que queremos hacer con todo eso.
 
-###Proyectos personales
+### Proyectos personales
 
 Otra semana que se me ha pasado lo de Carlos, pero tengo varios frentes abiertos
 y los tengo que cerrar antes de empezar más cosas nuevas.
@@ -45,7 +45,7 @@ Software Craftmanship. Que me gustaría enseñar las tripas de
 [mamba](http://github.com/nestorsalceda/mamba) y algunas decisiones de diseño
 que hay que tomar.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 A través de un [tuit de Dani
 Latorre](https://twitter.com/dani_latorre/status/643548877677797376), hay un

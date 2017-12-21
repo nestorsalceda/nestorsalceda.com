@@ -11,7 +11,7 @@ olvidarme, sino por seguir llevando un ritmo fuertote.
 Ya tengo buena conexión en casa y puedo trabajar bien, y ya estoy completamente
 instalado y sigo encantado tras este mes de cambio de domicilio.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) poca novedad en el frente. Este es uno
   de los proyectos estables, se avanza a buen ritmo.
@@ -31,7 +31,7 @@ instalado y sigo encantado tras este mes de cambio de domicilio.
   inception y haciendo pruebas entre las sombras, pero tengo muchísimas ganas de
   este proyecto.
 
-###Proyectos personales
+### Proyectos personales
 
 Muy poquita cosa. Me gustaría sacar un poco de tiempo para los gimnasios, pero
 me da la impresión de que se me ha quedado estancado.
@@ -41,7 +41,7 @@ mesa, por unas de 144 leds por metro (las que uso ahora son de 30 leds por
 metro), y estoy tanteando precios en Aliexpress y ver si me puedo quitar el
 arduino y hacerlo todo con la raspberry.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Últimamente me está llamando bastante más la atención el frontend y escapar de
 los frameworks CSS. [Jesús Cuadra](http://www.tallergorilas.com/) me comentó

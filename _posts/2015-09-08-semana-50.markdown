@@ -14,7 +14,7 @@ Pero no viene solo, también es uno de los momentos de pico de trabajo. Ese
 momento en el que hay que terminar cosas hasta final de año, o esa conversación
 de "estuve en verano con este y me dijo de hacer ..."
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) la cosa sigue adelante, y con cambios
   grandes. Hoy, [ha tuiteado Eduardo
@@ -43,7 +43,7 @@ de "estuve en verano con este y me dijo de hacer ..."
 * Esta semana le echaré un tiento al proyecto de Prosegur, que espero que no se
   haya caído.
 
-###Proyectos personales
+### Proyectos personales
 
 Con el tema de los gimnasios, he avanzado bastante y me gustaría que, aunque
 está muy primitivo, montarlo ya en producción en el primer gimnasio y empezar a
@@ -59,7 +59,7 @@ muy claro el formato, pero quiero contar las tripas de
 tener que hacer una herramienta para hacer TDD/BDD, pero creo que es una
 experiencia interesante.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Esta semana, tengo a Eduardo Ferro a todo trapo. Hizo un pequeño [análisis sobre
 el coste basal del

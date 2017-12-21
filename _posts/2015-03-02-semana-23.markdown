@@ -9,7 +9,7 @@ Semana hasta arriba de nuevas propuestas para colaboraciones. Normalmente la
 semana que me llegaban 2 ó 3, era buenica; pues bien, el Jueves tenía 6 encima
 de la mesa. A ver cómo me organizo.
 
-###Proyectos en curso
+### Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) ha sido una semana normal, ya
   aterrizado y haciendo algunos ajustes en las aplicaciones y revisando algunos
@@ -33,12 +33,12 @@ de la mesa. A ver cómo me organizo.
 * Con la gente de Amex parece que se han colado unas cuantas modificaciones, voy
   a ver cómo puedo asumir esto.
 
-###Proyectos personales
+### Proyectos personales
 
 Hay alguna cosa nueva, de la que hablaré más adelante, pero quiero que gane
 tracción el tema de los gimnasio también.
 
-###Recomendación de contenido
+### Recomendación de contenido
 
 Esta semana he estado revisando un plugin de Vim, que se llama
 [UltiSnips](https://github.com/SirVer/ultisnips). Tiene muy buena pinta, pero lo

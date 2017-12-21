@@ -8,7 +8,7 @@ category: retrospectiva
 Esta semana ha sido completa. No lo digo tanto en el sentido de variedad, que
 también, sino en el sentido que he tenido los 7 días a tope.
 
-###Proyectos en curso
+###  Proyectos en curso
 
 * Con [alea](http://alea-soluciones.com) hemos tenido un poquito de
   [go](http://golang.org) que ya estamos utililizando en nuestro laboratorio
@@ -28,12 +28,12 @@ también, sino en el sentido que he tenido los 7 días a tope.
   he sabido nada más del tema. Así que creo que para la semana que viene este
   punto ya desaparece.
 
-###Proyectos personales
+###  Proyectos personales
 
 Los proyectos personales han seguido parados, pero ya voy viendo cómo poder
 hacerme hueco.
 
-###Recomendación de contenido
+###  Recomendación de contenido
 
 Para esta semana, os recomiendo la charla de Sandro Mancuso de [Crafted
 Design](https://vimeo.com/107963074).
@@ -43,7 +43,7 @@ estilo de DDD, me ha gustado bastante el aporte de las "Actions" como punto de
 entrada. También me ha sido útil ver la organización física de los proyectos,
 así que voy a probarla en alguno de mis proyectos.
 
-###PyConES 2014
+###  PyConES 2014
 
 Y finalmente, el fin de semana ha sido en Zaragoza la [PyConES
 2014](http://2014.es.pycon.org). Salgo con bastante buen sabor de boca y hay
