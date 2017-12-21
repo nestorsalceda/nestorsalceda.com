@@ -1,4 +1,4 @@
-/* 
+/*
 Document   : theme.css
 Author     : Mamoot Studio
 Description: Style-Layout
@@ -38,7 +38,7 @@ a:hover {
 }
 
 a:focus {
-    outline: none; 
+    outline: none;
 }
 
 a:active,a:focus {
@@ -65,7 +65,7 @@ hr {
 }
 
 @media (max-width:767px) {
- 
+
     body {
         padding-top: 0px;
     }
@@ -249,7 +249,7 @@ hr {
 
 
 @media (max-width:767px) {
- 
+
     .navbar-default {
         min-height: 50px;
     }
@@ -306,7 +306,7 @@ hr {
    ================================================== */
 .bg-intro {
     color: #FFF;
-    background-image: url(../images/bg.jpg);
+    background-image: url(/assets/images/bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     /*background-size*/
@@ -394,7 +394,7 @@ hr {
     margin: 0 auto;
 }
 
-@media (max-width:767px) { 
+@media (max-width:767px) {
 
     .bg-intro h1 {
         font-size: 26px;
@@ -589,7 +589,7 @@ hr {
 }
 
 @media (max-width:767px) {
- 
+
     .bg-contact h3 {
         display: block;
         margin: 0;
@@ -679,7 +679,7 @@ hr {
 .bg-footer-bottom ul li a:hover {
     color:#1BBC9B;
     text-decoration: none;
-    
+
 }
 .bg-footer-bottom .border-right {
     border-right: 1px solid #3a536b;
