@@ -6,7 +6,7 @@ category: retrospectiva
 ---
 
 Como ya han hecho [algunos](http://blog.semurat.es/2018/01/01/querido-2017-fuck-off/)
-[camaradas del metal](http://asiermarques.com/2017/reparar/) me encanta parar
+[camaradas](http://www.bonillaware.com/objetivos-para-2018) [del metal](http://asiermarques.com/2017/reparar/) me encanta parar
 del frenesí del día a día, echar la vista atrás y ver qué es lo que me gustaría
 hacer en este año.
 
