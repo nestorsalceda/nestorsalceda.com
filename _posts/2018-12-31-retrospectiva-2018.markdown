@@ -67,7 +67,7 @@ Algunos hitos que este 2018 me ha dejado:
   * Entre a trabajar a Sysdig.
 * Quiero pasar las tardes jugando con mis zagales. **Sin hacer**
   * Los llevo a la guardería, pero por la tarde sólo llego para jugar unos minutos, darles la cena, leerles un cuento y acostarles
-* Mudarme al local. **Hecho, y estoy jodidamente a gusto**
+* Mudarme al local. **Hecho, y estoy muy contento con el resultado**
 * A finales de 2017 he estado trabajando con mi viejo padawan en un saas. Espero que vea la luz este primer trimestre de 2018. **No, ni se hará este año**
 * Tomar un nuevo aprendiz. **No sé bien qué decir**
   * No tengo un nuevo aprendiz, tengo un compañero más joven y me intento ocupar de él, pero casi tira mejor código el que yo :P
