@@ -58,8 +58,9 @@ Algunos hitos que este 2018 me ha dejado:
 * Hablé sobre seguridad en contenedores en la Barcelona Software Crafters
 * Empecé a hacer una integración de Sysdig y Terraform: [terraform-provider-sysdig](https://github.com/draios/terraform-provider-sysdig)
 * Me dieron el premio a la [mejor charla técnica en la LibreCon](https://twitter.com/librecon/status/1065610609696346114)
-* [Kubernetes Response Engine](https://github.com/falcosecurity/falco/tree/dev/integrations/kubernetes-response-engine): Un proyecto para implementar seguridad activa en tu cluster y tener playbooks de seguridad automáticas.
-* He aprendido a hacer demos de [Secure](https://sysdig.com/products/secure/) y [Monitor](https://sysdig.com/products/monitor/), los dos productos comerciales de Sysdig. Y a hacerlas en inglés, con mi acento sexy de Zaragoza, pero en inglés.
+* [Kubernetes Response Engine](https://github.com/falcosecurity/falco/tree/dev/integrations/kubernetes-response-engine): Un proyecto para implementar seguridad activa en tu cluster y tener playbooks de seguridad automáticas
+* He salido en blogs como el de [Open Source de AWS](https://aws.amazon.com/blogs/opensource/securing-amazon-eks-lambda-falco/)
+* He aprendido a hacer demos de [Secure](https://sysdig.com/products/secure/) y [Monitor](https://sysdig.com/products/monitor/), los dos productos comerciales de Sysdig. Y a hacerlas en inglés, con mi acento sexy de Zaragoza, pero en inglés
 
 ## Revisión de objetivos de 2018
 
@@ -78,18 +79,18 @@ Algunos hitos que este 2018 me ha dejado:
 
 ## Objetivos de 2019
 
-* Pasar más tiempo con mis zagales.
-* Impartir charlas en inglés.
+* Pasar más tiempo con mis zagales
+* Impartir charlas en inglés
 * Tengo una ideilla para hacer un pequeño exporter de Prometheus, y no desvelo
-  más secretos.
-* Más Open Source: Me gustaría contribuir un poquito más a otros proyectos.
+  más secretos
+* Más Open Source: Me gustaría contribuir un poquito más a otros proyectos
 * Vuelta al [Kihon](https://en.wikipedia.org/wiki/Kihon):
-  * Quiero entender el código del Kernel de Linux.
-  * Shell Script.
-  * Lean Software Development y agilismo **sin humo ni mierdas**.
-* Continuar con mi aprendizaje de Judo y Aikido.
-* Hacer un poco más eficaz el tiempo que paso con [Fede](https://twitter.com/tembleking).
-* Hacer barbarie con Zaragoza DevOps. Estamos preparando una buena para mitad del 2019.
+  * Quiero entender el código del Kernel de Linux
+  * Shell Script
+  * Lean Software Development y agilismo **sin humo ni mierdas**
+* Continuar con mi aprendizaje de Judo y Aikido
+* Hacer un poco más eficaz el tiempo que paso con [Fede](https://twitter.com/tembleking)
+* Hacer barbarie con Zaragoza DevOps. Estamos preparando una buena para mitad del 2019
 
 
 ¡Disfrutad de 2019!
